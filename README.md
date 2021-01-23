@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Jeskson! 👋
 
-- 🐧 腾讯全栈开发攻城狮
+- 😄 全栈开发攻城狮
 - 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a>
 - 🌱 热爱分享 <a href="" target="_blank">公众号『 程序员哆啦A梦 』</a>
 - 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 魔王哪吒</a>
