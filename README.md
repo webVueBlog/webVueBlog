@@ -1,4 +1,17 @@
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=liyupi&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
+</p>
+
 ### Hi there, I'm Jeskson! 👋
+
+- 🐧 腾讯全栈开发攻城狮
+- 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a>
+- 🌱 热爱分享 <a href="" target="_blank">公众号『 程序员哆啦A梦 』</a>
+- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 魔王哪吒a>
+- 💬 微信：xiaoda0423
+- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/dashucoding" target="_blank">@程序员哆啦A梦</a>
+- 👬 QQ 千人编程交流群2：634382181
 
 Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer from China.
 
@@ -20,3 +33,5 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![interview-answe's github stats](https://github-readme-stats.vercel.app/api?username=webVueBlog&show_icons=true&theme=radical)](https://github.com/webVueBlog/interview-answe)
+
+
