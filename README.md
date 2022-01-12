@@ -7,14 +7,13 @@
 - 😄 前端开发工程师
 - 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a>
 - 🌱 热爱分享个人网站 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
-- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 魔王哪吒</a> | <a href="https://www.infoq.cn/u/dadaqianduan/publish" target="_blank">infoQ 魔王哪吒</a>
+- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 魔王哪吒</a>
 - 💬 微信：xiaoda0423
-- 👬 QQ 千人编程交流群2：634382181
 - 💬 向我询问：如有问题可以[点击](https://github.com/webVueBlog/interview-answe/issues)
 - 📫 如何联系我wx: xiaoda0423（How to reach me）
 - 🤔 有问题欢迎私聊
 - ⚡ 有趣的事实： 我一直在倡导学习（Fun fact）
-- 📖 个人学习文档：learn-docs[https://github.com/learn-docs](https://github.com/learn-docs)
+- 📖 个人学习文档：[learn-docs](https://github.com/learn-docs)求星星 ✨
 
 <br />
 
