@@ -11,7 +11,7 @@
 - 💬 微信：wx: xiaoda0423（How to reach me）⚡ 
 - 📫 向我询问：如有问题可以[点击](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 有趣的事实： 我一直在倡导学习[常用snippets](https://gist.github.com/webVueBlog)（Fun fact）
-- 📖 个人学习文档：[learn-docs](https://github.com/learn-docs)求星星 ✨
+- 📖 个人学习文档：[learn-docs](https://github.com/learn-docs) [[1024bibi](https://1024bibi.com/) [vue-docs ](https://learn-docs.github.io/vue-docs/)]求星星 ✨
 
 <br />
 
