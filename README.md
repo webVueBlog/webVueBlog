@@ -4,7 +4,7 @@
 
 ### 
 
-- 😄 提供便利的方案：[Vite-Vue3-TypeScript](https://github.com/webVueBlog/Vite-Vue3-TypeScript)，[Node+Vue 实现大文件上传](https://github.com/webVueBlog/file-breakpoint-continue)等
+- 😄 提供便利的方案：[Vite-Vue3-TypeScript](https://github.com/webVueBlog/Vite-Vue3-TypeScript)，[vue3-vite2-ts4](https://github.com/webVueBlog/vue3-vite2-ts4)，[Node+Vue 实现大文件上传](https://github.com/webVueBlog/file-breakpoint-continue)等
 - 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a>
 - 🌱 个人网站 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
 - 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 我是哪吒</a>
