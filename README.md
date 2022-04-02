@@ -22,6 +22,10 @@
 - 低调务实优秀中国好青年 -》 [Leetcode](https://github.com/webVueBlog/Leetcode) ✨ (10k+) -》欢迎👏 Star 提倡每日学习与思考，每天进步一点！
 【Suggest 👍  ‍💻 Leetcode brush question & answers】每天更新阶段性学习，记录自己的leetcode解题之路……
 
+- learn-docs [学习文档](https://github.com/learn-docs)
+
+- weekCoding [每周争取☝️一个仓库](https://github.com/weekCodeing)
+
 <br />
 
 ## Languages and Tools:
