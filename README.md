@@ -10,17 +10,12 @@
 - 🤔 有趣的事实： 我一直在倡导学习[常用snippets](https://gist.github.com/webVueBlog)（Fun fact）
 - 🌟 🌟 项目：[正经的前端学习](https://github.com/webVueBlog/Leetcode)
 
-<br />
-
 ## 个人项目
 
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-- 低调务实优秀中国好青年 -》 [正经的前端学习](https://github.com/webVueBlog/Leetcode) ✨ (10k+) -》欢迎👏 Star 提倡每日学习与思考，每天进步一点！
-【每日更新 Suggest 👍 question & answers】🌟🌟 一个 ☝️ 正经的前端学习，以阶段性来驱动学习，每天进步一点点🤏 ！leetcode题解，记录自己的leetcode解题之路……
-
+- 【每日更新 Suggest 👍 question & answers】[正经的前端学习](https://github.com/webVueBlog/Leetcode) 🌟🌟 一个 ☝️ 正经的前端学习，以阶段性来驱动学习，每天进步一点点🤏 ！leetcode题解，记录自己的leetcode解题之路……
 - learn-docs [学习文档](https://github.com/learn-docs)
-
 - weekCoding [每周争取☝️一个仓库](https://github.com/weekCodeing)
 
 <br />
