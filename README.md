@@ -1,6 +1,9 @@
 我是哪吒
 
 很高兴你能关注我，Hi there, I'm Jeskson! 👋 (leader，核心开发)，做过APP，小程序，PC端开发，目前研究🧐 ，研究某一方向中，正在更新深入系列、专题系列 等多个系列网站。
+
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+
 ### 
 
 - 😄 提供便利的方案：[Vite-Vue3-TypeScript](https://github.com/webVueBlog/Vite-Vue3-TypeScript)，[vue3-vite2-ts4](https://github.com/webVueBlog/vue3-vite2-ts4)，[Node+Vue 实现大文件上传](https://github.com/webVueBlog/file-breakpoint-continue)等
