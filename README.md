@@ -1,4 +1,4 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 
 
 很高兴你能关注我，Hi there, I'm Jeskson! 👋 (项目管理，核心开发)，C / B 端开发（PC 工具/管理，小程序，移动H5，APP），目前研究🧐 ，研究某一方向中，正在更新深入系列、专题系列 等多个系列网站。
 
@@ -38,3 +38,5 @@
 | 项目 | Stars | Forks |
 | --- | --- | ---|
 | [**一个 ☝️ 正经的前端学习**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
+
+👤： 如果你所学的东西 处于喜欢 才会有强大的动力支撑。
