@@ -10,7 +10,6 @@
 - 😄 提供便利的方案：[Vite-Vue3-TypeScript](https://github.com/webVueBlog/Vite-Vue3-TypeScript)，[vue3-vite2-ts4](https://github.com/webVueBlog/vue3-vite2-ts4)，[Node+Vue 实现大文件上传](https://github.com/webVueBlog/file-breakpoint-continue)等
 - 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a> 以及 🌱 个人网站 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
 - 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 我是哪吒</a>
-- 🌟 🌟 项目：[正经的前端学习](https://github.com/webVueBlog/Leetcode)
 - 🤔 有趣的事实： 我一直在倡导学习 [常用snippets](https://gist.github.com/webVueBlog)（Fun fact），每天坚持运动
 
 ## 个人项目
@@ -34,6 +33,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
+
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
