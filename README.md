@@ -14,7 +14,7 @@
 
 ## 个人项目
 
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" />
 
 - 【**每日更新** question & answers】一个 ☝️ [正经的前端学习](https://github.com/webVueBlog/Leetcode)，以阶段性来驱动学习，每天进步一点点！包含JavaScript / Vue / React /  TypeScript /HTML / CSS / Nodejs / Leetcode题解，记录自己的leetcode解题之路……Suggest 👍  
 - learn-docs [学习文档](https://github.com/learn-docs)
@@ -34,9 +34,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
+<img align="right"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&langs_count=16&theme=light " />
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
 | [**一个 ☝️ 正经的前端学习**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
-
+| [**🐬 大文件上传，断点续传**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
+  
 👤： 如果你所学的东西 处于喜欢 才会有强大的动力支撑。
+
