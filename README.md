@@ -1,6 +1,6 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30"'> 🎉🎉🎉
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30"'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge"/>
 
-很高兴你能关注我，Hi there, I'm Jeskson! 👋 (项目管理，核心开发)，C / B 端开发（PC 工具/管理，小程序，移动H5，APP），目前研究🧐 ，研究某一方向中，正在更新深入系列、专题系列 等多个系列网站。
+ 很高兴你能关注我，Hi there, I'm Jeskson! 👋 (项目管理，核心开发)，C / B 端开发（PC 工具/管理，小程序，移动H5，APP），目前研究🧐 ，研究某一方向中，正在更新深入系列、专题系列 等多个系列网站。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
@@ -46,3 +46,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
+<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=webVueBlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
