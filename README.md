@@ -1,19 +1,19 @@
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30"'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge"/>
 
- 很高兴你能关注我，Hi there, I'm Jeskson! 👋 (项目管理，核心开发)，C / B 端开发（PC 工具/管理，小程序，移动H5，APP），目前研究🧐 ，研究某一方向中，正在更新深入系列、专题系列 等多个系列网站。
+ 很高兴你能关注我 👋 ，不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
 ### 
 
 <!-- - 😄 我的leetcode题解 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) -->
-- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 我是哪吒</a>
+- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 我是哪吒</a> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 - 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a> 以及 🌱 个人网站 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
 - 💬 微信：wx: xiaoda0423（How to reach me）⚡ 👉 向我询问：如有问题可以[点击](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 有趣的事实： 我一直在倡导学习 [常用snippets](https://gist.github.com/webVueBlog)（Fun fact），每天坚持运动，每周至少阅读一本书籍
 
 
-## 个人项目 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50"'> ༼ つ ◕_◕ ༽つ Please share
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 个人项目 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50"'> ༼ つ ◕_◕ ༽つ Please share
 
 <img align="right"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&langs_count=16&theme=light " />
 
