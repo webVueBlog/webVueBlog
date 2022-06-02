@@ -48,3 +48,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=webVueBlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
+[<img align="left" style="margin: 10px" height="210px" width="48%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn)
+
+[<img align="right" style="margin: 10px" height="210px" width="48%" src="https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark">](https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark)
