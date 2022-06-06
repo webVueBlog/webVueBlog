@@ -25,7 +25,7 @@
 | [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" /> |
 | [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) | <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" /> |
 | [**🦈 国内css平台从业者交流**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
-| [**关注者名单**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
+| [**♻️ 感谢关注者名单**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
 | [**🌧 学习文档**](https://github.com/learn-docs) | 学习文档 | 学习文档 |
 | [**☀ 每周争取☝️一个仓库**](https://github.com/weekCodeing) | ☝️一个仓库 | ☝️一个仓库 |
 
