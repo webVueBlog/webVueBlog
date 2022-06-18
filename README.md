@@ -1,35 +1,35 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒(leader) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> I'm Jeskson (leader) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
 
- 很高兴你能关注我 👋 ，不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。
+Very glad you can pay attention to me 👋, no matter how bitter the road ahead, as long as the direction is right, no matter how rugged, are closer to happiness than standing in situ.
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-### 我可能有点喜欢leetcode
+### I might like Leetcode
 
 <!-- - 😄 我的leetcode题解 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) -->
-- 😺 趣讲技术：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金 我是哪吒</a> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-- 🏡 作品：<a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">求星星 ✨</a> 以及 🌱 个人网站 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
-- 💬 微信：wx: xiaoda0423（How to reach me）⚡ 👉 向我询问：如有问题可以[点击](https://github.com/webVueBlog/interview-answe/issues)
-- 🤔 有趣的事实： 我一直在倡导学习 [常用snippets](https://gist.github.com/webVueBlog)（Fun fact），每天坚持运动，每周至少阅读一本书籍
+- 😺 Boring about technology：<a href="https://juejin.cn/user/1451011081249175" target="_blank">The Denver nuggets I am which zha</a> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+- 🏡 works：<a href="http://www.dadaqianduan.cn/#/" target="_blank">At the front</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">Ask the stars ✨</a> As well as 🌱 Personal website <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
+- 💬 wx: xiaoda0423（How to reach me）⚡ 👉 Ask me: If you have any questions [click](https://github.com/webVueBlog/interview-answe/issues)
+- 🤔 Fun Fact: I've been advocating learning [common Snippets](https://gist.github.com/webVueBlog)（Fun fact），Exercise every day and read at least one book a week
 
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 个人项目  ༼ つ ◕_◕ ༽つ Please share
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Personal projects  ༼ つ ◕_◕ ༽つ Please share
 
-<img align="right"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&langs_count=16&theme=light " />
+<!-- <img align="right"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&langs_count=16&theme=light " /> -->
 
-| 项目 | Stars | Forks |
+| project | Stars | Forks |
 | --- | --- | ---|
-| [**每日更新 ☝️ 正经的前端学习**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
-| [**🐬 大文件上传，断点续传**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
+| [**Daily update ☝️ serious front-end learning**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
+| [**🐬 Large file upload, resumable breakpoint**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
 | [**⚡ todolist-react**](https://github.com/webVueBlog/todolist-react) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=social" height="22" align="top" /> |
 | [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" /> |
 | [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) | <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" /> |
-| [**🦈 国内css平台从业者交流**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
-| [**♻️ 感谢关注者名单**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
-| [**🌧 学习文档**](https://github.com/learn-docs) | 学习文档 | 学习文档 |
-| [**☀ 每周争取☝️一个仓库**](https://github.com/weekCodeing) | ☝️一个仓库 | ☝️一个仓库 |
+| [**🦈 Domestic CSS platform practitioners exchange**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
+| [**♻️ Thanks for the list of followers**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
+| [**👋 Learning document**](https://github.com/learn-docs) | Learning document | Learning document |
+| [**☀ Strive for ☝️ one warehouse per week**](https://github.com/weekCodeing) | ☝️week | ☝️week |
 
-#### 语言与框架 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'>
+#### Language and Framework <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -43,19 +43,24 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  -->
 
-#### 常用工具
+#### Commonly used tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=webVueBlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 
-<!--
-### 中英leetcode && 掘金数据
+<h3>数据统计</h3>
+<a href="https://github.com/webVueBlog" target="_blank">
+  <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webVueBlog&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
+</a>
+<a href="https://github.com/webVueBlog" target="_blank">
+  <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
+</a>
+<br>
 
 
 [<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn)
 [<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en">](https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en)
 [<img  style="margin: 10px" height="210px" width="28%" src="https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark">](https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark)
 
--->
