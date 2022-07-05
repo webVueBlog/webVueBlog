@@ -1,50 +1,42 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> I'm Jeskson (leader) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
+中文 | [english](./en.md)
 
-Very glad you can pay attention to me 👋, no matter how bitter the road ahead, as long as the direction is right, no matter how rugged, are closer to happiness than standing in situ.
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 (leader) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
+
+很高兴你能关注我👋，不管前面的路有多苦，只要方向是对的，不管多崎岖，都比站在原地更接近幸福。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-### I might like Leetcode <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+### 我可能喜欢上了Leetcode <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-- ☕️ My leetcode Solutions to LeetCode by JavaScript [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode)
-- 😺 Boring about technology：<a href="https://juejin.cn/user/1451011081249175" target="_blank">The Denver nuggets I am which zha</a> 
-- 🏡 works：<a href="http://www.dadaqianduan.cn/#/" target="_blank">At the front</a> | <a href="https://github.com/webVueBlog/vueblog" target="_blank">Ask the stars ✨</a> As well as 🌱 Personal website <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a>
-- 💬 wx: xiaoda0423（How to reach me）⚡ 👉 Ask me: If you have any questions [click](https://github.com/webVueBlog/interview-answe/issues)
-- 🤔 Fun Fact: I've been advocating learning [common Snippets](https://gist.github.com/webVueBlog)（Fun fact），Exercise every day and read at least one book a week
+- ☕️ 我的leetcode解决方案 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode)
+- 😺 技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
+- 🏡 技术博客：🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github ✨</a>
+- 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
+- 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
+##  感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Personal projects  ༼ つ ◕_◕ ༽つ Please share
-
-<!-- <img align="right"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&langs_count=16&theme=light " /> -->
-
-| project | Stars | Forks |
+| 项目 | 关注量 | 学习 |
 | --- | --- | ---|
-| [**Daily update ☝️ serious front-end learning**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
-| [**🐬 Large file upload, resumable breakpoint**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
+| [**🎲【每日更新 question & answers】**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
+| [**🐬 Node+Vue 实现大文件上传，断点续传等**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
 | [**⚡ todolist-react**](https://github.com/webVueBlog/todolist-react) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=social" height="22" align="top" /> |
 | [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" /> |
 | [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) | <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" /> |
-| [**🦈 Domestic CSS platform practitioners exchange**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
-| [**♻️ Thanks for the list of followers**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
-| [**👋 Learning document**](https://github.com/learn-docs) | Learning document | Learning document |
-| [**☀ Strive for ☝️ one warehouse per week**](https://github.com/weekCodeing) | ☝️week | ☝️week |
+| [**🦈 国内css平台从业者交流e**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
+| [**♻️ 关注人数列表数据**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
+| [**👋 前端文档**](https://github.com/learn-docs) | 前端文档 | 前端文档 |
+| [**☝️ 前端项目**](https://github.com/weekCodeing) | ☝️前端项目 | ☝️前端项目 |
 
-#### Language and Framework <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'>
+#### 常用的 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- -->
-
-#### Commonly used tools
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
