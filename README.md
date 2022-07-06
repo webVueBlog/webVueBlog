@@ -6,7 +6,7 @@
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-### 我可能喜欢上了Leetcode <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+### 🦀 我可能喜欢上了Leetcode <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 - ☕️ 我的leetcode解决方案 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode)
 - 😺 技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
@@ -14,7 +14,7 @@
 - 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
-##  感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
+## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
 | 项目 | 关注量 | 学习 |
 | --- | --- | ---|
