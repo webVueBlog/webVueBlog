@@ -16,17 +16,15 @@
 
 ## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
-| 项目 | 关注量 | 学习 |
-| --- | --- | ---|
-| [**🎲【每日更新 question & answers】**](https://github.com/webVueBlog/Leetcode) | <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" /> |
-| [**🐬 Node+Vue 实现大文件上传，断点续传等**](https://github.com/webVueBlog/file-breakpoint-continue) | <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> |
-| [**⚡ todolist-react**](https://github.com/webVueBlog/todolist-react) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=social" height="22" align="top" /> |
-| [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) | <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" /> |
-| [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) | <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" /> |
-| [**🦈 国内css平台从业者交流e**](https://github.com/webVueBlog/awesome-css) | <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" /> |
-| [**♻️ 关注人数列表数据**](https://github.com/webVueBlog/nice-my-friend) | <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> |
-| [**👋 前端文档**](https://github.com/learn-docs) | 前端文档 | 前端文档 |
-| [**☝️ 前端项目**](https://github.com/weekCodeing) | ☝️前端项目 | ☝️前端项目 |
+- [**🎲【每日更新 question & answers】**](https://github.com/webVueBlog/Leetcode) - <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" />
+- [**🐬 Node+Vue 实现大文件上传，断点续传等**](https://github.com/webVueBlog/file-breakpoint-continue) - <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" />
+- [**⚡ todolist-react**](https://github.com/webVueBlog/todolist-react) - <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=social" height="22" align="top" />
+- [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) - <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" />
+- [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) - <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" />
+- [**🍉 国内css平台从业者交流e**](https://github.com/webVueBlog/awesome-css) - <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" />
+- [**♻️ 关注人数列表数据**](https://github.com/webVueBlog/nice-my-friend) - <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" />
+- [**👋 前端文档**](https://github.com/learn-docs)
+- [**☝️ 前端项目**](https://github.com/weekCodeing)
 
 #### 常用的 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'>
 
