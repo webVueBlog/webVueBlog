@@ -23,6 +23,7 @@
 - [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) - <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" />
 - [**🍉 国内css平台从业者交流**](https://github.com/webVueBlog/awesome-css) - <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" />
 - [**♻️ 关注人数列表数据**](https://github.com/webVueBlog/nice-my-friend) - <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" />
+- [**♥ Promises/A+ 实现**](https://github.com/webVueBlog/promise) - <img src="https://img.shields.io/github/stars/webVueBlog/promise?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/promise?style=social" height="22" align="top" />
 - [**👋 前端文档**](https://github.com/learn-docs)
 - [**☝️ 前端项目**](https://github.com/weekCodeing)
 
