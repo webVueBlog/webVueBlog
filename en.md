@@ -60,8 +60,3 @@ Very glad you can pay attention to me 👋, no matter how bitter the road ahead,
   <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
 </a>
 <br>
-
-[<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn)
-[<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en">](https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en)
-[<img  style="margin: 10px" height="210px" width="28%" src="https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark">](https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark)
-
