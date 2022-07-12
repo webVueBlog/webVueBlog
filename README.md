@@ -1,4 +1,4 @@
-中文 | [english](./en.md)
+中文 | [english](./en.md) :man_technologist: 
 
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 (leader) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
 
@@ -57,4 +57,6 @@
 [<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn)
 [<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en">](https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en)
 
+### 等着你
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em>
