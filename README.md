@@ -53,10 +53,6 @@
 </a>
 <br>
 
-[<img  style="margin: 10px" height="210px" width="28%" src="https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark">](https://stats.justsong.cn/api/juejin?id=1451011081249175&theme=dark)
-[<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn">](https://leetcard.jacoblin.cool/jeskson?theme=unicorn&site=cn)
-[<img  style="margin: 10px" height="210px" width="35%" src="https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en">](https://leetcard.jacoblin.cool/webVueBlog?theme=unicorn&site=en)
-
 ### 等着你
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em>
