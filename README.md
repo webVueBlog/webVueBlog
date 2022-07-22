@@ -28,6 +28,24 @@
 - [**👋 组织learn-docs学习文档**](https://github.com/learn-docs)
 - [**☝️ 组织weekCodeing**](https://github.com/weekCodeing)
 
+### 招聘
+
+岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
+
+职业要求：
+
+- 掌握前端效率工具与工作流开发，优秀的源码阅读能力，
+- 对vue原理有深入的理解以及react其他框架学习能力，对正则表达式感兴趣
+- 有良好的代码习惯，能编写出高效，高性能，具有高可维护性的代码（TS方面等）
+- 熟悉web性能优化，有桌面客户端electron，PC web以及多端开发经验者优先
+- 掌握至少一门服务器端编程语言，熟悉HTTP，HTTPS等常见网络协议，有服务器运维经验者优先
+- 能对现有产品和开发流程进行观察和思考，提出优化改进方案
+- 较强的学习能力，具备良好的知识沉淀习惯，有技术博客撰写，Github开源项目者优先
+- 热爱分享，开源，有开源项目维护经验优先
+- 能紧跟业界最新技术，喜欢在前端领域折腾，某领域业务专家
+- 熟悉算法，熟悉富文本编辑器开发，对文本处理协作系统，AI音视频，音频对轨及人工智能方面有兴趣优先
+- 对协同编辑，大型web项目性能极限优化有深厚的兴趣优先
+
 #### <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'> 常用的 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
