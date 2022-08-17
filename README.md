@@ -1,4 +1,4 @@
-## About me
+## 🦀 About me <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
@@ -15,8 +15,6 @@ Hi, I am ne zha / Jeskson
 很高兴你能关注我👋，不管前面的路有多苦，只要方向是对的，不管多崎岖，都比站在原地更接近幸福。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
-
-### 🦀 我可能喜欢上了Leetcode <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 - ☕️ 我的leetcode解决方案 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
 - 🔭 技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
