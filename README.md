@@ -2,7 +2,7 @@
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-Hi, I am webVueBlog.
+Hi, I am ne zha / Jeskson
 
 - 🍰 I’m a web developer who follow my heart
 - 🌈 I’m current learning React, Vue.js
