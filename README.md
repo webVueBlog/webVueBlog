@@ -1,5 +1,7 @@
 ## About me
 
+<img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
+
 Hi, I am webVueBlog.
 
 - 🍰 I’m a web developer who follow my heart
