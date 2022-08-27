@@ -2,7 +2,7 @@
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-Hi, I am ne zha / Jeskson
+Hi, I am ne zha / Jeskson 👻
 
 - 🍰 I’m a web developer who follow my heart
 - 🌈 I’m current learning React, Vue.js
@@ -18,22 +18,265 @@ Hi, I am ne zha / Jeskson
 - 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
-## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
+<h2>📚 小书</h2>
+<p> 终身学习，把内容变成一本在线小书，皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【@Github:webVueBlog】作者出处即可。</p>
+<table>
+  <thead align="center">
+    <tr>
+      <th>封面</th>
+      <th>书名</th>
+      <th>简述</th>
+      <th>成就</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th align="center">
+        <img width="80" src="https://user-images.githubusercontent.com/59645426/187019807-7785b3c9-9931-4bca-a28f-5e508a4c9839.jpg" alt="《前端进阶 JavaScript 标准库》">
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/JavaScript-standard-library" target="_blank">《前端进阶 JavaScript 标准库》</a>
+      </th>
+      <th>前端进阶必看的JavaScript 标准库</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/JavaScript-standard-library?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/JavaScript-standard-library?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
 
-- [**🎲【每日更新 question & answers】**](https://github.com/webVueBlog/Leetcode) - <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=social" height="22" align="top" />
-- [**🐬 Node+Vue 实现大文件上传，断点续传等**](https://github.com/webVueBlog/file-breakpoint-continue) - <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=social" height="22" align="top" />
-- [**🚀 目标：让每个前端人都能够获得一个 offer**](https://github.com/webVueBlog/fe) - <img src="https://img.shields.io/github/stars/webVueBlog/fe?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/fe?style=social" height="22" align="top" />
-- [**⚡ todolist-react**](https://github.com/webVueBlog/todolist-react) - <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=social" height="22" align="top" />
-- [**⭐ todolist-vue**](https://github.com/webVueBlog/todolist-vue) - <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=social" height="22" align="top" />
-- [**🌙 express-node-mysql-react**](https://github.com/webVueBlog/express-node) - <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=social" height="22" align="top" />
-- [**🍉 国内css平台从业者交流**](https://github.com/webVueBlog/awesome-css) - <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=social" height="22" align="top" />
-- [**♻️ 关注人数列表数据**](https://github.com/webVueBlog/nice-my-friend) - <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=social" height="22" align="top" />
-- [**♥ Promises/A+ 实现**](https://github.com/webVueBlog/promise) - <img src="https://img.shields.io/github/stars/webVueBlog/promise?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/promise?style=social" height="22" align="top" />
-- [**🖖 mini-vue**](https://github.com/webVueBlog/mini-vue) - <img src="https://img.shields.io/github/stars/webVueBlog/mini-vue?style=social" height="22" align="top" /> - <img src="https://img.shields.io/github/forks/webVueBlog/mini-vue?style=social" height="22" align="top" />
-- [**👋 组织learn-docs学习文档**](https://github.com/learn-docs)
-- [**☝️ 组织weekCodeing**](https://github.com/weekCodeing)
+<h2>🤡 项目 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> </h2>
+<p>下面是我在学习前端的路上写的一些项目，为了进步 🧐，为了展示 🍌，为了开心 🤪。</p>
+<table>
+  <thead align="center">
+    <tr>
+      <th>项目</th>
+      <th>Github</th>
+      <th>简述</th>
+      <th>技术</th>
+      <th>成就</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        <a href="https://webvueblog.github.io/Leetcode/#/Blog/BlogList" target="_blank">
+        【Leetcode】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/Leetcode" target="_blank">Github</a>
+      </th>
+      <th>🎲【每日更新 question & answers】</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/Leetcode?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/Leetcode?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/file-breakpoint-continue" target="_blank">
+        【file-breakpoint-continue】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/file-breakpoint-continue" target="_blank">Github</a>
+      </th>
+      <th>🐬 实现大文件上传，断点续传等</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/file-breakpoint-continue?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/file-breakpoint-continue?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/fe" target="_blank">
+        【fe】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/fe" target="_blank">Github</a>
+      </th>
+      <th>🚀 目标：让每个前端人都能够获得一个 offer</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/fe?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/fe?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/todolist-react" target="_blank">
+        【todolist-react】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/todolist-react" target="_blank">Github</a>
+      </th>
+      <th>⚡ todolist-react</th>
+      <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/todolist-react?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/todolist-react?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/todolist-vue" target="_blank">
+        【todolist-vue】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/todolist-vue" target="_blank">Github</a>
+      </th>
+      <th>⭐ todolist-vue</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/todolist-vue?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/todolist-vue?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/express-node" target="_blank">
+        【express-node】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/express-node" target="_blank">Github</a>
+      </th>
+      <th>🌙 express-node-mysql-react</th>
+      <th>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/express-node?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/express-node?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/awesome-css" target="_blank">
+        【awesome-css】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/awesome-css" target="_blank">Github</a>
+      </th>
+      <th>🍉 国内css平台从业者交流</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/awesome-css?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/awesome-css?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/nice-my-friend" target="_blank">
+        【nice-my-friend】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/nice-my-friend" target="_blank">Github</a>
+      </th>
+      <th>♻️ 关注人数列表数据</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/nice-my-friend?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/nice-my-friend?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/promise" target="_blank">
+        【promise】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/promise" target="_blank">Github</a>
+      </th>
+      <th>🐧 Promises/A+ 实现</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/promise?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/promise?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/webVueBlog/mini-vue" target="_blank">
+        【mini-vue】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/mini-vue" target="_blank">Github</a>
+      </th>
+      <th>🖖 mini-vue</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/mini-vue?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/mini-vue?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
 
-## 招聘 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+<h2>🐳 组织</h2>
+<p>欢迎参观，一些个人以及 参与 / 创建 的 团队/组织</p>
+<table>
+  <thead align="center">
+    <tr>
+      <th>Team Logo</th>
+      <th>组织名</th>
+      <th>简述</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th align="center">
+        <img width="80" src="https://avatars.githubusercontent.com/u/97204182?s=200&v=4" alt="《learn-docs》">
+      </th>
+      <th>
+        <a href="https://github.com/learn-docs" target="_blank">【👋 learn-docs】</a>
+      </th>
+      <th>学习文档</th>
+    </tr>
+    <tr>
+      <th align="center">
+        <img width="80" src="https://avatars.githubusercontent.com/u/100006750?s=200&v=4" alt="《weekCodeing》">
+      </th>
+      <th>
+        <a href="https://github.com/weekCodeing" target="_blank">【☝️ weekCodeing】</a>
+      </th>
+      <th>每周争取☝️一个仓库</th>
+    </tr>
+    <tr>
+      <th align="center">
+        <img width="80" src="https://avatars.githubusercontent.com/u/105715499?s=200&v=4" alt="《nice-people-frontend-community》">
+      </th>
+      <th>
+        <a href="https://github.com/nice-people-frontend-community" target="_blank">【✅ 低调务实优秀中国好青年】</a>
+      </th>
+      <th>也许是中国前端界最好的成长社群</th>
+    </tr>
+  </tbody>
+</table>
+
+## ☀️ 招聘 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
 
@@ -77,6 +320,6 @@ Hi, I am ne zha / Jeskson
 </a>
 <br>
 
-### 等着你
+### 🙌 社交
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em>
