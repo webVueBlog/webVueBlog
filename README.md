@@ -19,7 +19,7 @@ Hi, I am ne zha / Jeskson 👻
 - 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
 <h2>📚 小书</h2>
-<p> 终身学习，把内容变成一本在线小书，皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【@Github:webVueBlog】作者出处即可。</p>
+<p> 把内容变成一本在线小书，皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【@Github:webVueBlog】作者出处即可。</p>
 <table>
   <thead align="center">
     <tr>
@@ -103,7 +103,7 @@ Hi, I am ne zha / Jeskson 👻
       <th>
         <a href="https://github.com/webVueBlog/fe" target="_blank">Github</a>
       </th>
-      <th>🚀 目标：让每个前端人都能够获得一个 offer</th>
+      <th>🚀 让每个前端人都能够获得一个 offer</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
@@ -236,7 +236,7 @@ Hi, I am ne zha / Jeskson 👻
 </table>
 
 <h2>🐳 组织</h2>
-<p>欢迎参观，一些个人以及 参与 / 创建 的 团队/组织</p>
+<p>欢迎参观，一些个人以及 参与 / 创建 的 团队 / 组织</p>
 <table>
   <thead align="center">
     <tr>
