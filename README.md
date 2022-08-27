@@ -1,4 +1,4 @@
-## 🦀 About me <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 (核心开发) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
@@ -7,10 +7,6 @@ Hi, I am ne zha / Jeskson
 - 🍰 I’m a web developer who follow my heart
 - 🌈 I’m current learning React, Vue.js
 - 🌸 Programming with love
-
-中文 | [english](./en.md) :man_technologist: 
-
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是哪吒 (核心开发) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
 
 很高兴你能关注我👋，不管前面的路有多苦，只要方向是对的，不管多崎岖，都比站在原地更接近幸福。
 
@@ -37,7 +33,7 @@ Hi, I am ne zha / Jeskson
 - [**👋 组织learn-docs学习文档**](https://github.com/learn-docs)
 - [**☝️ 组织weekCodeing**](https://github.com/weekCodeing)
 
-### 招聘
+## 招聘 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
 
