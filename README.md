@@ -267,6 +267,15 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
   <tbody align="left">
     <tr>
       <th align="center">
+        <img width="80" src="https://avatars.githubusercontent.com/u/108849185?s=200&v=4" alt="《ChickenDreamFactory》">
+      </th>
+      <th>
+        <a href="https://github.com/ChickenDreamFactory" target="_blank">【 🐣 侠客行：萌鸡】</a>
+      </th>
+      <th>程序科学：是一门99%勤奋+1%灵感的严谨学科，我们愿意认真剖析，积极学习，进一寸有一寸的欣喜。</th>
+    </tr>
+    <tr>
+      <th align="center">
         <img width="80" src="https://avatars.githubusercontent.com/u/97204182?s=200&v=4" alt="《learn-docs》">
       </th>
       <th>
