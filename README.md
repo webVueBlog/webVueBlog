@@ -297,7 +297,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         <img width="80" src="https://avatars.githubusercontent.com/u/105715499?s=200&v=4" alt="《nice-people-frontend-community》">
       </th>
       <th>
-        <a href="https://github.com/nice-people-frontend-community" target="_blank">低调务实优秀中国好青年</a>
+        <a href="https://github.com/nice-people-frontend-community" target="_blank">nice-people-frontend-community</a>
       </th>
       <th>也许是中国前端界最好的成长社群</th>
     </tr>
