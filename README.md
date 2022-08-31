@@ -45,7 +45,9 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="https://user-images.githubusercontent.com/59645426/187235097-87ecc3d9-1bfa-4e7c-8c0c-7b262659aec9.jpg" alt="《腾讯精选练习 50 题》">
+        <a href="https://webvueblog.github.io/Tencent-50-Leetcode/" target="_blank">
+          <img width="80" src="https://user-images.githubusercontent.com/59645426/187235097-87ecc3d9-1bfa-4e7c-8c0c-7b262659aec9.jpg" alt="《腾讯精选练习 50 题》">
+        </a>
       </th>
       <th>
         <a href="https://github.com/webVueBlog/Tencent-50-Leetcode" target="_blank">《腾讯精选练习 50 题》</a>
