@@ -43,6 +43,19 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         <img src="https://img.shields.io/github/forks/webVueBlog/JavaScript-standard-library?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th align="center">
+        <img width="80" src="https://user-images.githubusercontent.com/59645426/187235097-87ecc3d9-1bfa-4e7c-8c0c-7b262659aec9.jpg" alt="《腾讯精选练习 50 题》">
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/Tencent-50-Leetcode" target="_blank">《腾讯精选练习 50 题》</a>
+      </th>
+      <th>力扣 (LeetCode) 🐧 腾讯精选练习 50 题</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/Tencent-50-Leetcode?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/Tencent-50-Leetcode?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
 
