@@ -65,9 +65,9 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         </a>
       </th>
       <th>
-        <a href="https://github.com/webVueBlog/Tencent-50-Leetcode" target="_blank">《力扣 (LeetCode) LeetCode HOT 100》</a>
+        <a href="https://github.com/webVueBlog/LeetCode-HOT-100" target="_blank">《LeetCode HOT 100》</a>
       </th>
-      <th>力扣 (LeetCode) 力扣 (LeetCode) 🔥LeetCode HOT 100</th>
+      <th>力扣 (LeetCode) 🔥LeetCode HOT 100</th>
       <th>
         <img src="https://img.shields.io/github/stars/webVueBlog/LeetCode-HOT-100?style=flat-square" alt="badge">
         <img src="https://img.shields.io/github/forks/webVueBlog/LeetCode-HOT-100?style=flat-square" alt="badge">
