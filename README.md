@@ -97,7 +97,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
       <th>
         <a href="https://github.com/webVueBlog/Leetcode" target="_blank">Github</a>
       </th>
-      <th>🎲【每日更新 question & answers】</th>
+      <th>🎲 前端 question & answers</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" alt="badge">
@@ -115,7 +115,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
       <th>
         <a href="https://github.com/webVueBlog/uui" target="_blank">Github</a>
       </th>
-      <th>🖖 【uui组件库】</th>
+      <th>🖖 uui组件库</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
@@ -152,7 +152,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
       <th>
         <a href="https://github.com/webVueBlog/fe" target="_blank">Github</a>
       </th>
-      <th>🚀 让每个前端人都能够获得一个 offer</th>
+      <th>🚀 让前端人都能够获得offer</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
