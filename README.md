@@ -60,6 +60,21 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
     </tr>
     <tr>
       <th align="center">
+        <a href="https://webvueblog.github.io/Bytedance-campus-59-Leetcode/" target="_blank">
+          <img width="80" src="https://user-images.githubusercontent.com/59645426/189210756-13c9874f-15a0-4bb4-a251-6f9af799a9b1.png" alt="《Bytedance-campus-59-Leetcode》">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/Bytedance-campus-59-Leetcode" target="_blank">《字节校园 59》</a>
+      </th>
+      <th>力扣 (LeetCode) 🐿️ 字节校园 算法与数据结构</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/Bytedance-campus-59-Leetcode?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/Bytedance-campus-59-Leetcode?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th align="center">
         <a href="https://webvueblog.github.io/LeetCode-HOT-100/" target="_blank">
           <img width="80" src="https://user-images.githubusercontent.com/59645426/187740664-cdba7b48-cfcd-42fd-9445-fc4bf2c8757b.png" alt="《LeetCode-HOT-100》">
         </a>
