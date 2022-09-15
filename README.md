@@ -103,6 +103,21 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         <img src="https://img.shields.io/github/forks/ChickenDreamFactory/JavaScript-data-structures-and-algorithms?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th align="center">
+        <a href="" target="_blank">
+          <img width="80" src="https://user-images.githubusercontent.com/59645426/189252658-27a74605-ecdc-469a-a032-dcd767aeb06d.png" alt="《场景代码题-API实现原理-实战题目》">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《场景代码题-API实现原理-实战题目》</a>
+      </th>
+      <th>场景代码题-API实现原理-实战题目</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
 
