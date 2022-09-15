@@ -110,7 +110,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         </a>
       </th>
       <th>
-        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《场景代码题-API实现原理-实战题目》</a>
+        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《提升自己》</a>
       </th>
       <th>场景代码题-API实现原理-实战题目</th>
       <th>
