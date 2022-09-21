@@ -95,7 +95,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         </a>
       </th>
       <th>
-        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《数据结构与算法概念与实现》</a>
+        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《数据结构与算法》</a>
       </th>
       <th>哪吒的数据结构与算法</th>
       <th>
