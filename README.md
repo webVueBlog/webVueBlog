@@ -32,7 +32,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="https://user-images.githubusercontent.com/59645426/187019807-7785b3c9-9931-4bca-a28f-5e508a4c9839.jpg" alt="《前端进阶 JavaScript 标准库》">
+        <img width="80" src="https://user-images.githubusercontent.com/59645426/187019807-7785b3c9-9931-4bca-a28f-5e508a4c9839.jpg" alt="《前端进阶JS标准库》">
       </th>
       <th>
         <a href="https://github.com/webVueBlog/JavaScript-standard-library" target="_blank">《前端进阶 JavaScript 标准库》</a>
