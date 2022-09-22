@@ -342,56 +342,6 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
   </tbody>
 </table>
 
-<h2>🐳 组织</h2>
-<p>欢迎参观，一些个人以及 参与 / 创建 的 团队 / 组织</p>
-<table>
-  <thead align="center">
-    <tr>
-      <th>Team Logo</th>
-      <th>组织名</th>
-      <th>简述</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <th align="center">
-        <img width="80" src="https://avatars.githubusercontent.com/u/108849185?s=200&v=4" alt="《ChickenDreamFactory》">
-      </th>
-      <th>
-        <a href="https://github.com/ChickenDreamFactory" target="_blank">前端萌鸡</a>
-      </th>
-      <th>程序科学：是一门99%勤奋+1%灵感的严谨学科，我们愿意认真剖析，积极学习，进一寸有一寸的欣喜。</th>
-    </tr>
-    <tr>
-      <th align="center">
-        <img width="80" src="https://avatars.githubusercontent.com/u/97204182?s=200&v=4" alt="《learn-docs》">
-      </th>
-      <th>
-        <a href="https://github.com/learn-docs" target="_blank">learn-docs</a>
-      </th>
-      <th>学习文档</th>
-    </tr>
-    <tr>
-      <th align="center">
-        <img width="80" src="https://avatars.githubusercontent.com/u/100006750?s=200&v=4" alt="《weekCodeing》">
-      </th>
-      <th>
-        <a href="https://github.com/weekCodeing" target="_blank">weekCodeing</a>
-      </th>
-      <th>每周争取☝️一个仓库</th>
-    </tr>
-    <tr>
-      <th align="center">
-        <img width="80" src="https://avatars.githubusercontent.com/u/105715499?s=200&v=4" alt="《nice-people-frontend-community》">
-      </th>
-      <th>
-        <a href="https://github.com/nice-people-frontend-community" target="_blank">nice-people-frontend-community</a>
-      </th>
-      <th>也许是中国前端界最好的成长社群</th>
-    </tr>
-  </tbody>
-</table>
-
 ## ☀️ 招聘 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
