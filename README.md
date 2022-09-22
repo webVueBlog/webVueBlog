@@ -32,6 +32,19 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
   <tbody align="left">
     <tr>
       <th align="center">
+        <img width="80" src="https://user-images.githubusercontent.com/59645426/191723401-fc82f6e2-2f27-4274-aaeb-41a0384f270a.png" alt="《Webpack学习笔记》">
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/webpack-studying" target="_blank">《Webpack学习笔记》</a>
+      </th>
+      <th>Webpack学习笔记</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/webpack-studying?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/webpack-studying?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th align="center">
         <img width="80" src="https://user-images.githubusercontent.com/59645426/187019807-7785b3c9-9931-4bca-a28f-5e508a4c9839.jpg" alt="《前端进阶JavaScript标准库》">
       </th>
       <th>
