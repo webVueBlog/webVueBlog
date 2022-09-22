@@ -35,7 +35,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         <img width="80" src="https://user-images.githubusercontent.com/59645426/191723401-fc82f6e2-2f27-4274-aaeb-41a0384f270a.png" alt="《Webpack学习笔记》">
       </th>
       <th>
-        <a href="https://github.com/webVueBlog/webpack-studying" target="_blank">《Webpack学习笔记》</a>
+        <a href="https://github.com/webVueBlog/webpack-studying" target="_blank">《Webpack学习笔记》【加密】</a>
       </th>
       <th>Webpack学习笔记</th>
       <th>
@@ -123,7 +123,7 @@ Hi, I am ne zha / Jeskson 👻 🚕🚖🚗🚚🚛🚜
         </a>
       </th>
       <th>
-        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《提升自己》</a>
+        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《提升自己》【加密】</a>
       </th>
       <th>场景代码题-API实现原理-实战题目</th>
       <th>
