@@ -7,6 +7,10 @@
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
+- 🍰 I’m a web developer who follow my heart
+- 🌈 I’m current learning React, Vue.js
+- 🌸 Programming with love
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>🙌  我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em> 
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
