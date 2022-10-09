@@ -1,16 +1,12 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20">  我是哪吒 (核心开发) 👋 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'>👻 🚕🚖🚗🚚🚛🚜 🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20">  我是哪吒 (核心开发) 👋 👻 🚕🚖🚗🚚🚛🚜 🎉 <img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=9999FF&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%AA%90+Welcome+to+My+Github+Profile+%F0%9F%AA%90" alt="Typing SVG" /></a>
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-Hi, I am ne zha / Jeskson 
+🙌 社交
 
-- 🍰 I’m a web developer who follow my heart
-- 🌈 I’m current learning React, Vue.js
-- 🌸 Programming with love
-
-很高兴你能关注我，不管前面的路有多苦，只要方向是对的，不管多崎岖，都比站在原地更接近幸福。
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em> 
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
@@ -388,6 +384,4 @@ Hi, I am ne zha / Jeskson
 </a>
 <br>
 
-### 🙌 社交
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em>
