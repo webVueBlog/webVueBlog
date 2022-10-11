@@ -38,7 +38,7 @@
         <img width="80" src="https://user-images.githubusercontent.com/59645426/191723401-fc82f6e2-2f27-4274-aaeb-41a0384f270a.png" alt="《Webpack学习笔记》">
       </th>
       <th>
-        <a href="https://github.com/webVueBlog/webpack-studying" target="_blank">《Webpack学习笔记》【加密】</a>
+        <a href="https://github.com/webVueBlog/webpack-studying" target="_blank">《Webpack学习笔记》</a>
       </th>
       <th>Webpack学习笔记</th>
       <th>
