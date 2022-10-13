@@ -126,9 +126,9 @@
         </a>
       </th>
       <th>
-        <a href="https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms" target="_blank">《提升自己》【加密】</a>
+        <a href="https://github.com/ChickenDreamFactory/fe-chicken" target="_blank">《手写代码-Javascript API》</a>
       </th>
-      <th>场景代码题-API实现原理-实战题目</th>
+      <th>手写代码-Javascript API</th>
       <th>
         <img src="https://img.shields.io/github/stars/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
         <img src="https://img.shields.io/github/forks/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
