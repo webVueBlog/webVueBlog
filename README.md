@@ -329,6 +329,23 @@
     </tr>
     <tr>
       <th>
+        <a href="https://github.com/webVueBlog/awesome-stars-webVueBlog" target="_blank">
+        【awesome-stars-webVueBlog】</a>
+      </th>
+      <th>
+        <a href="https://github.com/webVueBlog/awesome-stars-webVueBlog" target="_blank">Github</a>
+      </th>
+      <th>🤩 我的star列表</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/webVueBlog/awesome-stars-webVueBlog?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/webVueBlog/awesome-stars-webVueBlog?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="https://github.com/webVueBlog/promise" target="_blank">
         【promise】</a>
       </th>
