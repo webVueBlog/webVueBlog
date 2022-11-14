@@ -19,9 +19,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 <p>下面是我在学习前端的路上写的一些项目，为了进步 🧐，为了展示 🍌，为了开心 🤪。</p>
--->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=9999FF&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%AA%90+Welcome+to+My+Github+Profile+%F0%9F%AA%90" alt="Typing SVG" /></a>
+-->
+
+<img width="100%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
