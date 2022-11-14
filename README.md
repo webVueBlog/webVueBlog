@@ -42,8 +42,7 @@
 - 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
-<h2>📚 小书</h2>
-<p> 把内容变成一本在线小书，皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【@Github:webVueBlog】作者出处即可。</p>
+<h2>📚 小书<text>免费食用 🍝、转载 📣，要求加上【@Github:webVueBlog】作者出处。</text></h2>
 <table>
   <thead align="center">
     <tr>
