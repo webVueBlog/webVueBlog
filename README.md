@@ -38,7 +38,7 @@
 - 😯 我的B站账号：https://space.bilibili.com/144761334
 - ☕️ 我的leetcode解决方案 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
 - 🔭 技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
-- 🏡 技术博客：🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github ✨</a>
+- 🏡 技术博客：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github ✨</a>
 - 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
