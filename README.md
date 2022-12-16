@@ -400,8 +400,6 @@
 - 熟悉算法，熟悉富文本编辑器开发，对文本处理协作系统，AI音视频，音频对轨及人工智能方面有兴趣优先
 - 对协同编辑，大型web项目性能极限优化有深厚的兴趣优先
 
-<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=webVueBlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
-
 <a href="https://github.com/webVueBlog" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webVueBlog&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
@@ -409,5 +407,11 @@
   <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
 </a>
 <br>
+
+
+<br/><br/>
+📈 My GitHub Activity Graph:
+
+[![KirkLin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=webVueBlog&theme=xcode)](https://github.com/webVueBlog/webVueBlog)
 
 
