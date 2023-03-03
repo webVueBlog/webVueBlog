@@ -153,7 +153,7 @@
       <th>
         <a href="https://github.com/ChickenDreamFactory/fe-chicken" target="_blank">《手写代码-Javascript API》</a>
       </th>
-      <th>手写代码-Javascript API</th>
+      <th>✨✨✨ 集锦 前端JavaScript 手写题，编程题，Not just for interviews</th>
       <th>
         <img src="https://img.shields.io/github/stars/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
         <img src="https://img.shields.io/github/forks/ChickenDreamFactory/fe-chicken?style=flat-square" alt="badge">
