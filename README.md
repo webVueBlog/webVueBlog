@@ -1,44 +1,18 @@
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20">  我是哪吒
-<!--
-<img src="https://visitor-badge.glitch.me/badge?page_id=webVueBlog" alt="visitor badge" />
-
-#### <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'> 常用的 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
-
-<p>下面是我在学习前端的路上写的一些项目，为了进步 🧐，为了展示 🍌，为了开心 🤪。</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&pause=1000&color=9999FF&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%AA%90+Welcome+to+My+Github+Profile+%F0%9F%AA%90" alt="Typing SVG" /></a>
--->
 
 <img width="100%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-- 🍰 I’m a web developer who follow my heart
-- 🌈 I’m current learning React, Vue.js
-- 🌸 Programming with love
+- 🍰 我的B站账号：https://space.bilibili.com/144761334
+- 🌈 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
+- 🌸 我的leetcode册子： [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
+- 🏡 个人博客网站：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github ✨</a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em> 
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-- 😯 我的B站账号：https://space.bilibili.com/144761334
-- ☕️ 我的leetcode册子： [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
-- 🔭 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
-- 🏡 个人博客网站：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github ✨</a>
 - 💬 我的微信号: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 坚持的趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
 
@@ -46,6 +20,10 @@
 
 - 腾讯位置服务开发应用(https://ext.dcloud.net.cn/plugin?id=3746)
 - JesksonUI-UniApp(https://ext.dcloud.net.cn/plugin?id=3837)
+
+📈 My GitHub Activity Graph:
+
+[![KirkLin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=webVueBlog&theme=xcode)](https://github.com/webVueBlog/webVueBlog)
 
 <h2>📚 小书 🍝 食用 、转载 📣、要求加上【@Github:webVueBlog】出处</h2>
 <table>
@@ -412,11 +390,4 @@
   <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
 </a>
 <br>
-
-
-<br/><br/>
-📈 My GitHub Activity Graph:
-
-[![KirkLin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=webVueBlog&theme=xcode)](https://github.com/webVueBlog/webVueBlog)
-
 
