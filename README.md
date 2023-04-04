@@ -1,4 +1,4 @@
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20">  我是哪吒
+## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 🤡 我是哪吒 感谢关注 ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 <img width="100%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 
@@ -15,6 +15,8 @@
 
 - 💬 我的微信号: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
 - 🤔 坚持的趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
+- [JavaGuideInterview学习](https://github.com/webVueBlog/JavaGuideInterview) 每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上纯手工发布（死磕自己，愉悦大家）准备 Java 面试，首选 JavaGuideInterview！面试题大收集，面试集锦 ❤ 💝 💘
+- [WebGuideInterview学习](https://github.com/webVueBlog/WebGuideInterview) 每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上纯手工发布（死磕自己，愉悦大家）准备 前端 面试，首选 WebGuideInterview！面试题大收集，面试集锦 ❤ 💝 💘
 
 <h2>开源</h2>
 
@@ -139,8 +141,6 @@
     </tr>
   </tbody>
 </table>
-
-<h2>🤡 项目 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> </h2>
 
 <table>
   <thead align="center">
