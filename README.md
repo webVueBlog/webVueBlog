@@ -131,7 +131,7 @@
         </a>
       </th>
       <th>
-        <a href="https://github.com/ChickenDreamFactory/fe-chicken" target="_blank">《手写代码-Javascript API》</a>
+        <a href="https://github.com/ChickenDreamFactory/fe-chicken" target="_blank">《手写代码》</a>
       </th>
       <th>✨✨✨ 集锦 前端JavaScript 手写题，编程题，Not just for interviews</th>
       <th>
