@@ -4,10 +4,6 @@
 
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
-
-职业要求：
-
 - 丰富的多端 0-1 前后端开发经验，大型前后端开发**重构经验**，有 4-5 前端团队搭建敏捷项目管理，团队**多人协同开发**能力，**可独立全栈开发**。
 - 熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
 - 熟练后端架构**：微服务、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、RabbitMQ、kafka、Cassandra、Elasticsearch、Nacos（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、sentinel服务熔断、SpringCloud Gateway服务网关、SpringCloud、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、Nginx（负载均衡）、SpringSecurity、Redis、MySql、MongoDB、Zookeeper、Seata分布式事务、Skywalking链路追踪理等。
