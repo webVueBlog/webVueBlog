@@ -2,7 +2,20 @@
 
 <img width="100%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 
-<img width="100%" src="https://github.com/webVueBlog/webVueBlog/assets/59645426/ac680145-586d-4aab-b0f6-fc82b26c587e" />
+## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+
+岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
+
+职业要求：
+
+- 丰富的多端 0-1 前后端开发经验，大型前后端开发**重构经验**，有 4-5 前端团队搭建敏捷项目管理，团队**多人协同开发**能力，**可独立全栈开发**。
+- 熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
+- 熟练后端架构**：微服务、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、RabbitMQ、kafka、Cassandra、Elasticsearch、Nacos（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、sentinel服务熔断、SpringCloud Gateway服务网关、SpringCloud、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、Nginx（负载均衡）、SpringSecurity、Redis、MySql、MongoDB、Zookeeper、Seata分布式事务、Skywalking链路追踪理等。
+- 熟练运维方面：熟悉Linux操作系统及常用命令，了解Docker，k8s等，Linux日常服务器操作管理。
+- 管理层经验4+年**：团队技术选型、技术攻坚及管理工作，注重前端标准化，模块化，工程化，在部门内部标准落地，已落地电商、新能源、物联网、有声小说行业业务能力。
+- 微服务平台稳定生产了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
+- 深入理解 Vue，并研究过其内部实现，并输出 **JS LeetCode 算法解决方案**（小册），刷题近500道题。
+- 喜欢分享，推动团队内部技术分享与复盘总结，工作认真负责，注重代码质量，工作效率。
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
@@ -297,24 +310,6 @@
     </tr>
   </tbody>
 </table>
-
-## ☀️ 招聘 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-
-岗位名称：高级web前端开发工程师（微信交流: xiaoda0423）
-
-职业要求：
-
-- 掌握前端效率工具与工作流开发，优秀的源码阅读能力，
-- 对vue原理有深入的理解以及react其他框架学习能力，对正则表达式感兴趣
-- 有良好的代码习惯，能编写出高效，高性能，具有高可维护性的代码（TS方面等）
-- 熟悉web性能优化，有桌面客户端electron，PC web以及多端开发经验者优先
-- 掌握至少一门服务器端编程语言，熟悉HTTP，HTTPS等常见网络协议，有服务器运维经验者优先
-- 能对现有产品和开发流程进行观察和思考，提出优化改进方案
-- 较强的学习能力，具备良好的知识沉淀习惯，有技术博客撰写，Github开源项目者优先
-- 热爱分享，开源，有开源项目维护经验优先
-- 能紧跟业界最新技术，喜欢在前端领域折腾，某领域业务专家
-- 熟悉算法，熟悉富文本编辑器开发，对文本处理协作系统，AI音视频，音频对轨及人工智能方面有兴趣优先
-- 对协同编辑，大型web项目性能极限优化有深厚的兴趣优先
 
 <a href="https://github.com/webVueBlog" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webVueBlog&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
