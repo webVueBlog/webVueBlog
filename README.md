@@ -93,7 +93,7 @@
 - 腾讯位置服务开发应用(https://ext.dcloud.net.cn/plugin?id=3746)
 - JesksonUI-UniApp(https://ext.dcloud.net.cn/plugin?id=3837)
 
-<h2>📚 小书 🍝 食用 、转载 📣、要求加上【@Github:webVueBlog】出处</h2>
+<h2>📚 小书</h2>
 <table>
   <thead align="center">
     <tr>
