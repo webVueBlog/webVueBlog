@@ -22,6 +22,7 @@
 
 ## 汇总
 
+- gd-ui-comonents 前端 UI 组件库（https://github.com/webVueBlog/gd-ui-comonents）
 - Springboot-IOT-Platform 物联网平台，智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。(https://github.com/webVueBlog/Springboot-IOT-Platform)
 - Springboot-IOT-Gateway 基于netty的UDP物联网网关程序，设备报文可转发至KAFKA或MQTT broker(https://github.com/webVueBlog/Springboot-IOT-Gateway)
 - Visual-Screen-Vue3 vue3、vite、Echart 框架的大数据可视化大屏展示(https://github.com/webVueBlog/Visual-Screen-Vue3)
