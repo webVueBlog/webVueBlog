@@ -22,6 +22,7 @@
 
 ## 汇总
 
+- 基于 VitePress 的个人后端架构系统日志（ https://github.com/webVueBlog/vitepress-java ）
 - unida-最好的uni跨平台开发脚手架（小程序，h5，App）( https://github.com/webVueBlog/unida )
 - 低代码数字化大屏-基于 React 技术栈实现（ https://github.com/webVueBlog/low-code-digital-big-screen ）
 - charging-station-large-screen 新能源充电桩数据可视化平台，采用Vue3、Echarts技术栈（https://github.com/webVueBlog/charging-station-large-screen ）
