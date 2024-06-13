@@ -5,7 +5,7 @@
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 - **开发经验**：丰富的多端 0-1 前后端项目开发经验，**独立开发经验3年**，大型前后端开发重构经验，有 4-5 前端团队搭建敏捷项目管理，团队多人协同开发能力，**可独立全栈开发**。
-- **熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、AntDesign-Vue/3.2、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
+- **熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、`AntDesign-Vue/3.2`、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
 - **熟练后端架构**：Spring Cloud微服务、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、kafka、（netty-mqtt,tcp,udp,sip,coap）、Cassandra、Elasticsearch、Nacos（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、sentinel服务熔断、SpringCloud Gateway服务网关、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、Nginx（负载均衡）、SpringSecurity、Redis、MySql、MongoDB、Zookeeper、Seata分布式事务、Skywalking链路追踪，XXL-Job等。
 - **熟练运维方面**：熟悉Linux操作系统及常用命令，了解Docker，k8s等，Linux日常服务器操作管理。
 - **管理层经验4+年**：负责团队技术选型、技术攻坚及管理工作（项目计划表，每周会议，绩效考核），管理项目全生命周期，制定项目计划，监控项目进程，对项目的质量，成本，风险，进度等进行管理和控制；对公司领导汇报项目进度，编写项目相关文档；协调其他安排的工作，注重标准化，模块化，工程化，在部门内部标准落地，已落地电商、新能源、物联网、有声小说行业业务能力。
