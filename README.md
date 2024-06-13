@@ -4,14 +4,14 @@
 
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-- 丰富的多端 0-1 前后端开发经验，大型前后端开发**重构经验**，有 4-5 前端团队搭建敏捷项目管理，团队**多人协同开发**能力，**可独立全栈开发**。
-- **熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
-- **熟练后端架构**：微服务、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、RabbitMQ、kafka、Cassandra、Elasticsearch、Nacos（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、sentinel服务熔断、SpringCloud Gateway服务网关、SpringCloud、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、Nginx（负载均衡）、SpringSecurity、Redis、MySql、MongoDB、Zookeeper、Seata分布式事务、Skywalking链路追踪理等。
-- 熟练运维方面：熟悉Linux操作系统及常用命令，了解Docker，k8s等，Linux日常服务器操作管理。
-- **管理层经验4+年**：团队技术选型、技术攻坚及管理工作，注重前端标准化，模块化，工程化，在部门内部标准落地，已落地电商、新能源、物联网、有声小说行业业务能力。
-- 微服务平台稳定生产了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
-- 深入理解 Vue，并研究过其内部实现，并输出 **JS LeetCode 算法解决方案**（小册），刷题近500道题。
-- 喜欢分享，推动团队内部技术分享与复盘总结，工作认真负责，注重代码质量，工作效率。
+- **开发经验**：丰富的多端 0-1 前后端项目开发经验，**独立开发经验3年**，大型前后端开发重构经验，有 4-5 前端团队搭建敏捷项目管理，团队多人协同开发能力，**可独立全栈开发**。
+- **熟练前端架构**：qiankun微前端架构系统、vue3、taro、react、express/node、vite3、TypeScript/4、AntDesign-Vue/3.2、element-plus/2.2、vue-i18n/9、mitt/3、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，跨平台uniapp、flutter框架，移动端H5网页、PC、微信/支付宝 小程序、安卓/IOS App等。
+- **熟练后端架构**：Spring Cloud微服务、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、kafka、（netty-mqtt,tcp,udp,sip,coap）、Cassandra、Elasticsearch、Nacos（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、sentinel服务熔断、SpringCloud Gateway服务网关、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、Nginx（负载均衡）、SpringSecurity、Redis、MySql、MongoDB、Zookeeper、Seata分布式事务、Skywalking链路追踪，XXL-Job等。
+- **熟练运维方面**：熟悉Linux操作系统及常用命令，了解Docker，k8s等，Linux日常服务器操作管理。
+- **管理层经验4+年**：负责团队技术选型、技术攻坚及管理工作（项目计划表，每周会议，绩效考核），管理项目全生命周期，制定项目计划，监控项目进程，对项目的质量，成本，风险，进度等进行管理和控制；对公司领导汇报项目进度，编写项目相关文档；协调其他安排的工作，注重标准化，模块化，工程化，在部门内部标准落地，已落地电商、新能源、物联网、有声小说行业业务能力。
+- **微服务平台稳定生产了三年+**，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
+- 深入理解 Vue，并研究过其内部实现，并**输出 JS LeetCode 算法解决方案**（小册），刷题近500道题。
+- 喜欢分享，推动团队内部技术**分享与复盘总结**，**工作认真负责**，注重**代码质量**，**工作效率**，工作内容输出。
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
