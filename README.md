@@ -135,7 +135,7 @@
 
 ## 汇总
 
-- Netty 4 的粘包和拆包解决办法，心跳测试，http服务的实现，client重连机制，TCP滑动窗口、protobuf协议传输等相关技术。（ https://github.com/webVueBlog/vitepress-java](https://github.com/webVueBlog/Netty-study ）
+- Netty 4 的粘包和拆包解决办法，心跳测试，http服务的实现，client重连机制，TCP滑动窗口、protobuf协议传输等相关技术。（ https://github.com/webVueBlog/Netty-study ）
 - Redisson实现分布式锁（ https://github.com/webVueBlog/spring-boot-distributed-redisson ）
 - 基于 VitePress 的个人后端架构系统日志（ https://github.com/webVueBlog/vitepress-java ）
 - unida-最好的uni跨平台开发脚手架（小程序，h5，App）( https://github.com/webVueBlog/unida )
