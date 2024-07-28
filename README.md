@@ -135,6 +135,7 @@
 
 ## 汇总
 
+- Netty 4 的粘包和拆包解决办法，心跳测试，http服务的实现，client重连机制，TCP滑动窗口、protobuf协议传输等相关技术。（ https://github.com/webVueBlog/vitepress-java](https://github.com/webVueBlog/Netty-study ）
 - 基于 VitePress 的个人后端架构系统日志（ https://github.com/webVueBlog/vitepress-java ）
 - unida-最好的uni跨平台开发脚手架（小程序，h5，App）( https://github.com/webVueBlog/unida )
 - 低代码数字化大屏-基于 React 技术栈实现（ https://github.com/webVueBlog/low-code-digital-big-screen ）
