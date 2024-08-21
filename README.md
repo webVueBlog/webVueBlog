@@ -135,6 +135,7 @@
 
 ## 汇总
 
+- delayqueue-redission-kafka ( https://github.com/webVueBlog/delayqueue-redission-kafka )
 - springboot-netty-iot通信协议设计 （ https://github.com/webVueBlog/springboot-netty-iot ）
 - 基于Netty实现的一个物联网服务端程序。（ https://github.com/webVueBlog/spring-iot-server ）
 - netty4.x案例。（ https://github.com/webVueBlog/springboot-netty ）
