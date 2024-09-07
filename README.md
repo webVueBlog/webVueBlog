@@ -135,6 +135,7 @@
 
 ## 汇总
 
+- MemoryCacheService,缓存key,用于解码头部帧,响应头帧编码器，netty 模拟快递柜采集端（https://github.com/webVueBlog/netty-iot）
 - delayqueue-redission-kafka ( https://github.com/webVueBlog/delayqueue-redission-kafka )
 - springboot-netty-iot通信协议设计 （ https://github.com/webVueBlog/springboot-netty-iot ）
 - 基于Netty实现的一个物联网服务端程序。（ https://github.com/webVueBlog/spring-iot-server ）
