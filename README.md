@@ -135,6 +135,7 @@
 
 ## 汇总
 
+- 一个基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等技术栈实现的社区系统，支持一键源码部署等(https://github.com/webVueBlog/benben)
 - vue-three-360-house (https://github.com/webVueBlog/vue-three-360-house)
 - Charging-pile-cloud-platform充电桩云平台，技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。（ https://github.com/webVueBlog/Charging-pile-cloud-platform ）
 - 一个基于websocket协议的分布式推送服务 ( https://github.com/webVueBlog/springboot-cloud-push )
