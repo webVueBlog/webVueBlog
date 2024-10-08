@@ -125,6 +125,7 @@
 - **微服务平台稳定上线了三年+**，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
 - 深入理解 Vue，并研究过其内部实现，并输出 JS LeetCode 算法解决方案（小册），刷题近500道题。
 - 喜欢分享，推动团队内部技术分享与复盘总结，撰写excel表格与PPT汇报能力，工作认真负责，注重代码质量，工作效率，工作内容输出。
+- 利用Python进行数据分析，进行数据科学与分析运营数据，自动化脚本。
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
