@@ -129,12 +129,13 @@
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-- 🌈 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
+- 🌈 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a>
 - 🌸 我的leetcode册子： [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
 - 🏡 个人博客网站：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github </a>
 
 ## 汇总
 
+- JavaPlusDoc: 文档 https://webvueblog.github.io/JavaPlusDoc/
 - 一个基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等技术栈实现的社区系统，支持一键源码部署等(https://github.com/webVueBlog/benben)
 - vue-three-360-house (https://github.com/webVueBlog/vue-three-360-house)
 - Charging-pile-cloud-platform充电桩云平台，技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。（ https://github.com/webVueBlog/Charging-pile-cloud-platform ）
