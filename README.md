@@ -214,10 +214,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em> 
 
-- 💬 我的微信号: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
-- 🤔 坚持的趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
-- [JavaGuideInterview学习](https://github.com/webVueBlog/JavaGuideInterview) 每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上纯手工发布（死磕自己，愉悦大家）准备 Java 面试，首选 JavaGuideInterview！面试题大收集，面试集锦 ❤ 💝 💘
-- [WebGuideInterview学习](https://github.com/webVueBlog/WebGuideInterview) 每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上纯手工发布（死磕自己，愉悦大家）准备 前端 面试，首选 WebGuideInterview！面试题大收集，面试集锦 ❤ 💝 💘
+- 💬 我的微信号: xiaoda0423
 
 <h2>开源</h2>
 
