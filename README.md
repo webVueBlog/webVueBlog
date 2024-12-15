@@ -1,6 +1,5 @@
 ##  感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-<img width="100%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 
 #### 后端技术栈
 
