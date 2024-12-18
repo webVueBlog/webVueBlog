@@ -1,5 +1,24 @@
 ##  感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
+## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+
+- **开发经验**：丰富的0到1**前后端项目**开发经验，独立开发经验5+年，大型前后端开发**重构经验**，有4到5人研发团队搭建，敏捷项目管理经验，团队**多人协同开发**能力，**可独立全栈开发**。
+- **熟练前端架构**：qiankun微前端**架构系统、react/vue3/vue2(PC前台/后台服务系统)、**taro(小程序开发)**、express/node(后台服务系统)、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，**跨平台uniapp**、flutter框架(安卓/IOS App)等。
+- **熟练后端架构**：Spring Cloud微服务**、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、k8s、**kafka**、（netty-mqtt,tcp,udp,sip,coap）、**Cassandra**、**Elasticsearch**、**Nacos**（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、**sentinel**服务熔断、**SpringCloud Gateway**服务网关、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、**Nginx**（负载均衡）、SpringSecurity、**Redis**、**MySql**、**MongoDB**、**Zookeeper**、Seata分布式事务、**Skywalking**链路追踪，**XXL-Job**、**云redis、云mysql**等。
+- **熟练运维方面**：熟悉Linux操作系统及常用命令，搭建Docker，k8s，中间件等，Linux日常服务器操作管理，能够进行配置、管故障排除，arthas.aliyun - Java 应用诊断利器。
+- **管理层经验4+年**：负责团队**技术选型**、**技术攻坚**及**管理工作**（**整理项目功能列表，开发计划表，开展每周会议，绩效考核评审**），管理项目全生命周期，制定项目计划，监控项目进程，对项目的质量，成本，风险，进度等进行管理和控制；对公司领导汇报项目进度，编写项目相关文档；协调其他安排的工作，注重标准化，模块化封装，工程化基建，在部门内部标准落地，已落地电商（商城微服务系统架构）、新能源-物联网（充电宝，充电线，充电桩，换电柜物联网微服务系统架构）、有声小说（PC效率工具）行业业务能力。
+- **微服务平台**: 稳定上线了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
+- 深入理解 Vue，并研究过其内部实现，并输出 **JS LeetCode 算法解决方案**（小册），刷题近500道题。
+- 喜欢分享，推动团队内部技术分享与复盘总结，**撰写excel表格与PPT汇报能力**，工作认真负责，注重代码质量，工作效率，工作内容输出。
+- 利用**Python**进行数据分析，进行数据科学与分析运营数据，自动化脚本。
+
+<img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
+
+- 🌈 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a>
+- 🌸 我的leetcode册子： [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
+- 🏡 个人博客网站：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github </a>
+
+
 
 #### 后端技术栈
 
@@ -113,24 +132,6 @@
   <img src="https://img.shields.io/badge/-GitHub%20Pages-222?logo=GitHub-Pages&logoColor=FFF" alt="GitHub Pages" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-A9A9A9?logo=Adobe-Photoshop&logoColor=31A8FF" alt="Adobe Photoshop" style="display: inline-block;" />&nbsp;
 </p>
-
-## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-
-- **开发经验**：丰富的0到1**前后端项目**开发经验，独立开发经验5+年，大型前后端开发**重构经验**，有4到5人研发团队搭建，敏捷项目管理经验，团队**多人协同开发**能力，**可独立全栈开发**。
-- **熟练前端架构**：qiankun微前端**架构系统、react/vue3/vue2(PC前台/后台服务系统)、**taro(小程序开发)**、express/node(后台服务系统)、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，**跨平台uniapp**、flutter框架(安卓/IOS App)等。
-- **熟练后端架构**：Spring Cloud微服务**、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、k8s、**kafka**、（netty-mqtt,tcp,udp,sip,coap）、**Cassandra**、**Elasticsearch**、**Nacos**（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、**sentinel**服务熔断、**SpringCloud Gateway**服务网关、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、**Nginx**（负载均衡）、SpringSecurity、**Redis**、**MySql**、**MongoDB**、**Zookeeper**、Seata分布式事务、**Skywalking**链路追踪，**XXL-Job**、**云redis、云mysql**等。
-- **熟练运维方面**：熟悉Linux操作系统及常用命令，搭建Docker，k8s，中间件等，Linux日常服务器操作管理，能够进行配置、管故障排除，arthas.aliyun - Java 应用诊断利器。
-- **管理层经验4+年**：负责团队**技术选型**、**技术攻坚**及**管理工作**（**整理项目功能列表，开发计划表，开展每周会议，绩效考核评审**），管理项目全生命周期，制定项目计划，监控项目进程，对项目的质量，成本，风险，进度等进行管理和控制；对公司领导汇报项目进度，编写项目相关文档；协调其他安排的工作，注重标准化，模块化封装，工程化基建，在部门内部标准落地，已落地电商（商城微服务系统架构）、新能源-物联网（充电宝，充电线，充电桩，换电柜物联网微服务系统架构）、有声小说（PC效率工具）行业业务能力。
-- **微服务平台**: 稳定上线了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
-- 深入理解 Vue，并研究过其内部实现，并输出 **JS LeetCode 算法解决方案**（小册），刷题近500道题。
-- 喜欢分享，推动团队内部技术分享与复盘总结，**撰写excel表格与PPT汇报能力**，工作认真负责，注重代码质量，工作效率，工作内容输出。
-- 利用**Python**进行数据分析，进行数据科学与分析运营数据，自动化脚本。
-
-<img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
-
-- 🌈 掘金技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a>
-- 🌸 我的leetcode册子： [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
-- 🏡 个人博客网站：🌱 <a href="https://www.1024bat.cn" target="_blank">1024bat.cn</a> 🌱 <a href="https://www.1024bibi.com" target="_blank">1024bibi.com</a> 🌱 <a href="http://www.dadaqianduan.cn/#/" target="_blank">达达前端</a> 🌱 <a href="https://github.com/webVueBlog/vueblog" target="_blank">github </a>
 
 ## 汇总
 
