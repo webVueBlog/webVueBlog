@@ -1,17 +1,5 @@
 ##  感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-![image](https://github.com/user-attachments/assets/68708b2a-e7e0-4a65-b159-fbaa9bfefa40)
-
-![image](https://github.com/user-attachments/assets/b6523ab4-09a1-4670-98bc-b5a5291de633)
-
-![image](https://github.com/user-attachments/assets/c4d7f6f3-7044-42ca-962d-cc982008c0ff)
-
-![image](https://github.com/user-attachments/assets/2b9e9d11-37e9-4ecd-a0b6-a4c846bf0ced)
-
-![image](https://github.com/user-attachments/assets/e875729f-458f-4c61-a8bc-f5d8cf40f759)
-
-![image](https://github.com/user-attachments/assets/92f20d8b-7ce4-4457-b1b2-603e9c886fbf)
-
 
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
