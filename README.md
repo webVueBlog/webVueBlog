@@ -6,15 +6,60 @@
 
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-- **开发经验**：丰富的0到1**前后端项目**开发经验，独立开发经验5+年，大型前后端开发**重构经验**，有4到5人研发团队搭建，敏捷项目管理经验，团队**多人协同开发**能力，**可独立全栈开发**。
-- **熟练前端架构**：qiankun微前端**架构系统、react/vue3/vue2(PC前台/后台服务系统)、**taro(小程序开发)**、express/node(后台服务系统)、TypeScript/4、Ant-Design-Vue/3.2、element-plus/2.2、vue-i18n/9、axios、pinia/2、vue-router/4、tailwindcss/3、VueRequest、VueUse等主流技术开发，**跨平台uniapp**、flutter框架(安卓/IOS App)等。
-- **熟练后端架构**：Spring Cloud微服务**、Maven 多模块管理、Java8、Spring、Spring Boot2、SpringMVC、Docker、k8s、**kafka**、（netty-mqtt,tcp,udp,sip,coap）、**Cassandra**、**Elasticsearch**、**Nacos**（Nacos Config）服务注册中与配置中心、Ribbon负载均衡、OpenFeign服务调用、**sentinel**服务熔断、**SpringCloud Gateway**服务网关、SpringCloud Alibaba、MyBatis、Mybatis-Plus、log4j、**Nginx**（负载均衡）、SpringSecurity、**Redis**、**MySql**、**MongoDB**、**Zookeeper**、Seata分布式事务、**Skywalking**链路追踪，**XXL-Job**、**云redis、云mysql**等。
-- **熟练运维方面**：熟悉Linux操作系统及常用命令，搭建Docker，k8s，中间件等，Linux日常服务器操作管理，能够进行配置、管故障排除，arthas.aliyun - Java 应用诊断利器。
-- **管理层经验4+年**：负责团队**技术选型**、**技术攻坚**及**管理工作**（**整理项目功能列表，开发计划表，开展每周会议，绩效考核评审**），管理项目全生命周期，制定项目计划，监控项目进程，对项目的质量，成本，风险，进度等进行管理和控制；对公司领导汇报项目进度，编写项目相关文档；协调其他安排的工作，注重标准化，模块化封装，工程化基建，在部门内部标准落地，已落地电商（商城微服务系统架构）、新能源-物联网（充电宝，充电线，充电桩，换电柜物联网微服务系统架构）、有声小说（PC效率工具）行业业务能力。
-- **微服务平台**: 稳定上线了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS多租户微服务平台。
-- 深入理解 Vue，并研究过其内部实现，并输出 **JS LeetCode 算法解决方案**（小册），刷题近500道题。
-- 喜欢分享，推动团队内部技术分享与复盘总结，**撰写excel表格与PPT汇报能力**，工作认真负责，注重代码质量，工作效率，工作内容输出。
-- 利用**Python**进行数据分析，进行数据科学与分析运营数据，自动化脚本。
+1. **开发经验**：**丰富的0到1项目开发经验**：拥有6年以上独立开发经验，主导大型前后端开发重构项目，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
+
+2. **技术栈与架构：**
+   
+   1. 前端技术栈
+      
+      - **微前端架构**：熟练使用 **qiankun 微前端架构**，实现应用独立部署与热更新。
+      
+      - **前端框架**：熟练使用 **React/Vue3/Vue2、Taro、uniapp、Flutter、Express/Node、TypeScript** 等，熟悉理解 **Ant-Design-Vue、element-plus、vue-i18n、axios、pinia、vue-router、tailwindcss、VueRequest、VueUse** 等生态技术。
+      
+      - **跨平台开发**：熟练开发 **Android/IOS** 、小程序、App 开发。
+   
+   2. 后端技术栈
+      
+      - **微服务架构**：熟练 **Spring Cloud** 微服务体系，掌握 **Maven 多模块管理、Spring Boot 2.7、Spring MVC、Spring Security、OAuth2、JWT、Redis、Nginx、Seata、Skywalking、Sentinel、XXL-Job、Zookeeper、Minio、Nacos、Kafka** 等技术。
+      
+      - **高并发与分布式**：深入使用 **Netty、MQTT、TCP、UDP、Cassandra、Elasticsearch、Nacos** 配置中心与服务注册、Ribbon 负载均衡、OpenFeign 服务调用、Traefik 反向代理等。
+      
+      - **数据库与持久化**：熟悉 **MySQL、MongoDB、Redis、Cassandra**，**Mybatis、Mybatis-Plus、Log4j** 等技术方案。
+
+3. **运维与工具：**
+   
+   - **运维管理**：熟练使用 **Docker、K8s、Jenkins、Linux 系统管理**，具备中间件配置与故障排查能力。
+   
+   - **DevOps**：擅长 **CI/CD、自动化部署、容器编排、服务治理**。
+   
+   - **诊断与监控**：熟练使用 **Arthas、Skywalking、Sentinel、** 实现链路追踪、流量控制与服务保护。
+
+4. **管理经验：**
+   
+   - **技术管理**：4年以上管理经验，负责团队技术选型、技术攻坚及管理工作。制定开发规范、项目计划、绩效考核、文档编写、项目进度监控，注重标准化、模块化与工程化建设。
+   
+   - **高并发系统设计**：主导电商、物联网、AI工具系统的高并发设计与架构落地，处理千万级流量系统。
+   
+   - **技术分享**：推动团队技术分享与复盘，提升团队整体技术水平。
+
+5. **高并发项目设计落地**：
+   
+   1. 电商系统，如二手珠宝店交易服务系统，购车服务系统，积分&优惠券商城等（商城微服务分部署系统架构，搭建千万级流量“秒杀”系统，二手电商平台的社会化治理系统）；
+   
+   2. 新能源物联网系统，如充电宝，充电线，充电桩等（换电柜物联网微服务系统架构）；
+   
+   3. 效率AI工具系统，如有声小说行业（PC效率工具）。
+
+6. **微服务平台**：稳定上线了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS**多租户，数据隔离**微服务分布式系统平台。
+
+7. **算法与数据分析：**
+   
+   - **算法与刷题**：深入理解 **Vue** 源码，完成 **LeetCode** 网站刷题近500道。
+   
+   - **Python 数据分析**：通过 **Python** 运营数据分析，开发自动化脚本。
+
+8. **产品运营与营销经验：** **掌握 精益创业** 思想和 **产品全生命周期管理**，具备互联网产品思维。
+
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
