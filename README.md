@@ -1,6 +1,4 @@
-##  感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-
-## 阅读过的书籍
+##  阅读过的书籍 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 ![d40c52526b57c61c39659e6aced5fe2](https://github.com/user-attachments/assets/264d08b2-9a44-437c-8576-c4073a1dacbe)
 
