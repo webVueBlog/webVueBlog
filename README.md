@@ -2,6 +2,11 @@
 
 ![d40c52526b57c61c39659e6aced5fe2](https://github.com/user-attachments/assets/264d08b2-9a44-437c-8576-c4073a1dacbe)
 
+## 实时更新文档
+
+![b35104f24bf88e2baeb98b00eb872c3](https://github.com/user-attachments/assets/e75240cd-579f-40db-b9d5-ff2965b4e1b0)
+
+
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 1. **开发经验**：**丰富的0到1项目开发经验**：拥有6年以上独立开发经验，主导大型前后端开发重构项目，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
