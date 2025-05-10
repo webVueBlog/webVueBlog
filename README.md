@@ -181,6 +181,9 @@
 
 ## 汇总
 
+- 一个基本可用的mqtt协议服务端broker https://github.com/webVueBlog/da-mqtt
+- 基于讯飞星火大模型的智能BI平台 https://github.com/webVueBlog/bi-backend
+- websocketNetty-基于netty搭建websocket服务器 https://github.com/webVueBlog/websocketNetty
 - JavaPlusDoc: 文档 https://webvueblog.github.io/JavaPlusDoc/
 - 一个基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等技术栈实现的社区系统，支持一键源码部署等(https://github.com/webVueBlog/benben)
 - vue-three-360-house (https://github.com/webVueBlog/vue-three-360-house)
