@@ -181,6 +181,7 @@
 
 ## 汇总
 
+- fastapi_plus https://github.com/webVueBlog/fastapi_plus
 - python-fastapi_gd https://github.com/webVueBlog/fastapi_gd
 - 一个基本可用的mqtt协议服务端broker https://github.com/webVueBlog/da-mqtt
 - 基于讯飞星火大模型的智能BI平台 https://github.com/webVueBlog/bi-backend
