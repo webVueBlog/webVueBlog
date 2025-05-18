@@ -1,8 +1,5 @@
 ## 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-
-
-
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 1. **开发经验**：**丰富的0到1项目开发经验**：拥有6年以上独立开发经验，主导大型前后端开发重构项目，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
@@ -265,6 +262,11 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em> 
 
+## 聊架构
+
+- 👯 一线互联网经验，擅长 架构设计、Java、分布式、微服务、中间件开发。
+- 🔭 自主开发了Java学习平台、PMP刷题小程序。整理了一份Java在线学习教程。
+- 🌱 目前主修Java、多线程、SpringBoot、SpringCloud、k8s、AI架构。
 - 💬 我的微信号: xiaoda0423
 
 <h2>开源</h2>
