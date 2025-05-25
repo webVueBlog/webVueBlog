@@ -1,60 +1,86 @@
 ## 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
+男 / 软件技术 / 04.23 GitHub & 码云活跃者，累积 700+ Stars 敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 团队管理
+
 ## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-1. **开发经验**：**丰富的0到1项目开发经验**：拥有6年以上独立开发经验，主导大型前后端开发重构项目，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
+1. 开发经验：丰富的0到1项目开发经验：拥有6年以上独立开发经验，主导大型前后端开发重构项目(换电，画本妖鸡AI效率工具)，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
 
-2. **技术栈与架构：**
+2. 技术栈与架构：
    
-   1. 前端技术栈
+   1. 前端技术栈与架构
       
-      - **微前端架构**：熟练使用 **qiankun 微前端架构**，实现应用独立部署与热更新。
+      - 微前端：熟练 Qiankun 微前端架构，打造多应用独立部署、灰度发布与热更新能力，支持团队各产品模块化协同开发。
       
-      - **前端框架**：熟练使用 **React/Vue3/Vue2、Taro、uniapp、Flutter、Express/Node、TypeScript** 等，熟悉理解 **Ant-Design-Vue、element-plus、vue-i18n、axios、pinia、vue-router、tailwindcss、VueRequest、VueUse** 等生态技术。
+      - 主流框架与生态：熟练 React、Vue3/2、Taro、uniapp、Flutter 及 Node/Express；熟悉 TypeScript 全流程开发，善用 Ant Design Vue、Element Plus、Vue Router、Pinia、Axios、VueUse、VueRequest、vue-i18n、TailwindCSS 等。
       
-      - **跨平台开发**：熟练开发 **Android/IOS** 、小程序、App 开发。
+      - 跨平台能力：具备 Android/iOS 、小程序端（微信/支付宝系）开发实战，能在多端保持体验一致、代码复用率高。
    
-   2. 后端技术栈
+   2. 后端技术栈与架构
       
-      - **微服务架构**：熟练 **Spring Cloud** 微服务体系，掌握 **Maven 多模块管理、Spring Boot 2.7、Spring MVC、Spring Security、OAuth2、JWT、Redis、Nginx、Seata、Skywalking、Sentinel、XXL-Job、Zookeeper、Minio、Nacos、Kafka** 等技术。
+      - 微服务与分布式：熟练 Spring Cloud（Spring Boot 2.7、Spring MVC、Spring Security、OAuth2、JWT）、Maven 多模块管理；有基于 Nacos/Zookeeper 的服务发现与配置管理、OpenFeign/Ribbon 负载均衡、Traefik/Nginx 反向代理落地经验。
       
-      - **高并发与分布式**：深入使用 **Netty、MQTT、TCP、UDP、Cassandra、Elasticsearch、Nacos** 配置中心与服务注册、Ribbon 负载均衡、OpenFeign 服务调用、Traefik 反向代理等。
+      - 高并发与消息：熟练使用 Netty、MQTT、TCP/UDP 协议栈；擅长 Kafka 流式处理、Sentinel 熔断限流、XXL-Job 定时调度、SkyWalking 链路追踪，保障系统亿级并发下的稳定与可观测性。
       
-      - **数据库与持久化**：熟悉 **MySQL、MongoDB、Redis、Cassandra**，**Mybatis、Mybatis-Plus、Log4j** 等技术方案。
+      - 数据存储与检索：熟练关系型与 NoSQL 数据库：MySQL（主从+分库分表）、MongoDB、Redis（缓存、分布式锁）、Cassandra、Elasticsearch；熟练 MyBatis/MyBatis-Plus 快速开发、Log4j 全面日志方案。
+     
+      - 云原生与存储：熟练 MinIO 对象存储、Nginx/Tomcat/Docker 容器化部署；具备一键化脚本与 CI/CD 流水线落地实践。
 
-3. **运维与工具：**
+3. 运维与工具能力：
    
-   - **运维管理**：熟练使用 **Docker、K8s、Jenkins、Linux 系统管理**，具备中间件配置与故障排查能力。
+   - 容器化与编排：熟练 Docker 镜像构建，熟练使用 Kubernetes（K8s）完成集群部署。
    
-   - **DevOps**：擅长 **CI/CD、自动化部署、容器编排、服务治理**。
+   - CI/CD 与自动化：熟练基于 Jenkins／GitLab CI 搭建流水线，实现代码打包、蓝绿/灰度/滚动发布；能编写 Shell 自动化运维脚本，提升交付速度与稳定性。
    
-   - **诊断与监控**：熟练使用 **Arthas、Skywalking、Sentinel、** 实现链路追踪、流量控制与服务保护。
+   - 监控与诊断：利用 Arthas 在线诊断 JVM 问题，结合 SkyWalking 链路追踪与 Sentinel 熔断限流，实现从应用到中台的全链条可观测与服务保护；熟悉 Prometheus＋Grafana 指标采集与可视化。
+  
+   - 系统运维与故障排查：精通 Linux（CentOS）系统管理，熟练配置 Nginx、Redis、Kafka、MySQL 等常用中间件，并能快速定位网络、进程、磁盘 I/O、内存泄露等故障根因。
 
-4. **管理经验：**
+4. 管理与架构经验：
    
-   - **技术管理**：4年以上管理经验，负责团队技术选型、技术攻坚及管理工作。制定开发规范、项目计划、绩效考核、文档编写、项目进度监控，注重标准化、模块化与工程化建设。
+   - 技术管理（4+ 年）：负责 5+ 人研发团队的技术选型、规范制订与执行，主导规划、项目进度监控与质量评审；建立文档化流程与绩效考核机制，保证项目按期交付。
    
-   - **高并发系统设计**：主导电商、物联网、AI工具系统的高并发设计与架构落地，处理千万级流量系统。
+   - 高并发系统设计：主导电商秒杀、物联网车联网与 AI 工具平台的千万级流量系统架构，采用微服务 + 异步消息（Kafka/MQTT）+ 分布式缓存（Redis）+ 多级限流（Sentinel）策略，保障系统在高并发场景下的可用性与稳定性。
    
-   - **技术分享**：推动团队技术分享与复盘，提升团队整体技术水平。
+   - 团队成长与分享：定期组织技术分享会、故障复盘，推动最佳实践在团队内落地；指导新人快速上手，持续提升团队整体交付能力与技术深度。
 
-5. **高并发项目设计落地**：
+5. 高并发项目设计与落地：
    
-   1. 电商系统，如二手珠宝店交易服务系统，购车服务系统，积分&优惠券商城等（商城微服务分部署系统架构，搭建千万级流量“秒杀”系统，二手电商平台的社会化治理系统）；
-   
-   2. 新能源物联网系统，如充电宝，充电线，充电桩等（换电柜物联网微服务系统架构）；
-   
-   3. 效率AI工具系统，如有声小说行业（PC效率工具）。
+   1. 二手珠宝 & 购车服务系统
 
-6. **微服务平台**：稳定上线了三年+，mysql主从模式，使用Netty、mqtt采集设备信息，k8s + jenkins的部署架构，采用Spring Boot 2.7 、Spring Cloud 2021 ，集成Minio分布式对象存储、Skywalking追踪监控、Sentinel从流量控制、熔断降级、系统负载等多个维度保护服务的稳定性，注册中心、配置中心选型Nacos，使用Traefik进行反向代理，借鉴OAuth2，实现了多终端认证系统，可控制子系统的token权限互相隔离，借鉴Security，封装了Secure模块，采用JWT做Token认证，可拓展集成Redis等细颗粒度控制方案，完全遵循阿里巴巴编码规范，实现SaaS**多租户，数据隔离**微服务分布式系统平台。
-
-7. **算法与数据分析：**
+      - 构建基于 Spring Cloud 的微服务架构，使用 Nginx + Spring Cloud Gateway 作 API 网关，Kafka 异步解耦业务流；
+     
+      - 引入 Redis 分布式缓存、布隆过滤器防击穿；
+     
+      - 支撑日均百万级请求，秒级峰值超5 万 QPS，P99 响应时间稳定在 <300ms（压测）。
    
-   - **算法与刷题**：深入理解 **Vue** 源码，完成 **LeetCode** 网站刷题近500道。
+   2. 新能源物联网·换电柜系统
+  
+      - 基于 Kafka + Netty 双协议网关，高性能接入50 万+ 设备；
+  
+      - 后端微服务使用 Cassandra 存储设备上报，写入延迟 <50ms；
+  
+      - 前端结合 WebSocket 实时监控架构，实现设备状态秒级感知与指令下发。
    
-   - **Python 数据分析**：通过 **Python** 运营数据分析，开发自动化脚本。
+   3. 效率 AI 工具平台（有声小说行业）
 
-8. **产品运营与营销经验：** **掌握 精益创业** 思想和 **产品全生命周期管理**，具备互联网产品思维。
+6. 微服务平台能力亮点：
+
+   - 稳定性与可靠性：平台上线运行超过 3 年，承载核心业务持续稳定无故障；
+  
+   - SaaS 多租户：设计多租户数据隔离服务，按需扩展子系统，满足隔离、安全、可审计要求。
+
+7. 算法与数据分析实力：
+   
+   - 算法功底深厚：深入剖析过 Vue 源码，完成 LeetCode 500+ 题目刷题，擅长常见数据结构与并发算法优化；
+   
+   - Python 自动化与数据洞察：基于 Pandas 开发运营数据分析脚本，定期产出自动化报表，提升决策效率。
+
+8. 产品运营与营销经验：
+
+   - 精益创业思维：驱动从需求调研、MVP 迭代到上线反馈的全生命周期管理；
+  
+   - 跨部门协作：与产品、市场、客服等团队紧密配合，推动专项营销活动。
 
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
