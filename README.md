@@ -1,4 +1,4 @@
-## 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+## JavaPlus 技术文档平台 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 男 / 软件技术 / 04.23 GitHub & 码云活跃者，累积 700+ Stars 敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 团队管理
 
