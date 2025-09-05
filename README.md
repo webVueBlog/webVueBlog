@@ -1,87 +1,36 @@
 ## JavaPlus 技术文档平台 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-男 / 软件技术 / 04.23 GitHub & 码云活跃者，累积 700+ Stars 敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 团队管理
+Java后端 - AI全栈架构师 GitHub & 码云活跃者，累积 **700+ Stars** 有敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 带团队经验
 
-## ☀️ 个人优势 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+## ☀️ 亮点速览 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-1. 开发经验：丰富的0到1项目开发经验：拥有6年以上独立开发经验，主导大型前后端开发重构项目(换电，画本妖鸡AI效率工具)，具备敏捷项目管理经验和多人团队协作能力，能够独立进行全栈开发。
-
-2. 技术栈与架构：
-   
-   1. 前端技术栈与架构
-      
-      - 微前端：熟练 Qiankun 微前端架构，打造多应用独立部署、灰度发布与热更新能力，支持团队各产品模块化协同开发。
-      
-      - 主流框架与生态：熟练 React、Vue3/2、Taro、uniapp、Flutter 及 Node/Express；熟悉 TypeScript 全流程开发，善用 Ant Design Vue、Element Plus、Vue Router、Pinia、Axios、VueUse、VueRequest、vue-i18n、TailwindCSS 等。
-      
-      - 跨平台能力：具备 Android/iOS 、小程序端（微信/支付宝系）开发实战，能在多端保持体验一致、代码复用率高。
-   
-   2. 后端技术栈与架构
-      
-      - 微服务与分布式：熟练 Spring Cloud（Spring Boot 2.7、Spring MVC、Spring Security、OAuth2、JWT）、Maven 多模块管理；有基于 Nacos/Zookeeper 的服务发现与配置管理、OpenFeign/Ribbon 负载均衡、Traefik/Nginx 反向代理落地经验。
-      
-      - 高并发与消息：熟练使用 Netty、MQTT、TCP/UDP 协议栈；擅长 Kafka 流式处理、Sentinel 熔断限流、XXL-Job 定时调度、SkyWalking 链路追踪，保障系统亿级并发下的稳定与可观测性。
-      
-      - 数据存储与检索：熟练关系型与 NoSQL 数据库：MySQL（主从+分库分表）、MongoDB、Redis（缓存、分布式锁）、Cassandra、Elasticsearch；熟练 MyBatis/MyBatis-Plus 快速开发、Log4j 全面日志方案。
-     
-      - 云原生与存储：熟练 MinIO 对象存储、Nginx/Tomcat/Docker 容器化部署；具备一键化脚本与 CI/CD 流水线落地实践。
-
-3. 运维与工具能力：
-   
-   - 容器化与编排：熟练 Docker 镜像构建，熟练使用 Kubernetes（K8s）完成集群部署。
-   
-   - CI/CD 与自动化：熟练基于 Jenkins／GitLab CI 搭建流水线，实现代码打包、蓝绿/灰度/滚动发布；能编写 Shell 自动化运维脚本，提升交付速度与稳定性。
-   
-   - 监控与诊断：利用 Arthas 在线诊断 JVM 问题，结合 SkyWalking 链路追踪与 Sentinel 熔断限流，实现从应用到中台的全链条可观测与服务保护；熟悉 Prometheus＋Grafana 指标采集与可视化。
-  
-   - 系统运维与故障排查：精通 Linux（CentOS）系统管理，熟练配置 Nginx、Redis、Kafka、MySQL 等常用中间件，并能快速定位网络、进程、磁盘 I/O、内存泄露等故障根因。
-
-4. 管理与架构经验：
-   
-   - 技术管理（4+ 年）：负责 5+ 人研发团队的技术选型、规范制订与执行，主导规划、项目进度监控与质量评审；建立文档化流程与绩效考核机制，保证项目按期交付。
-   
-   - 高并发系统设计：主导电商秒杀、物联网车联网与 AI 工具平台的千万级流量系统架构，采用微服务 + 异步消息（Kafka/MQTT）+ 分布式缓存（Redis）+ 多级限流（Sentinel）策略，保障系统在高并发场景下的可用性与稳定性。
-   
-   - 团队成长与分享：定期组织技术分享会、故障复盘，推动最佳实践在团队内落地；指导新人快速上手，持续提升团队整体交付能力与技术深度。
-
-5. 高并发项目设计与落地：
-   
-   1. 二手珠宝 & 购车服务系统
-
-      - 构建基于 Spring Cloud 的微服务架构，使用 Nginx + Spring Cloud Gateway 作 API 网关，Kafka 异步解耦业务流；
-     
-      - 引入 Redis 分布式缓存、布隆过滤器防击穿；
-     
-      - 支撑日均百万级请求，秒级峰值超5 万 QPS，P99 响应时间稳定在 <300ms（压测）。
-   
-   2. 新能源物联网·换电柜系统
-  
-      - 基于 Kafka + Netty 双协议网关，高性能接入50 万+ 设备；
-  
-      - 后端微服务使用 Cassandra 存储设备上报，写入延迟 <50ms；
-  
-      - 前端结合 WebSocket 实时监控架构，实现设备状态秒级感知与指令下发。
-   
-   3. 效率 AI 工具平台（有声小说行业）
-
-6. 微服务平台能力亮点：
-
-   - 稳定性与可靠性：平台上线运行超过 3 年，承载核心业务持续稳定无故障；
-  
-   - SaaS 多租户：设计多租户数据隔离服务，按需扩展子系统，满足隔离、安全、可审计要求。
-
-7. 算法与数据分析实力：
-   
-   - 算法功底深厚：深入剖析过 Vue 源码，完成 LeetCode 500+ 题目刷题，擅长常见数据结构与并发算法优化；
-   
-   - Python 自动化与数据洞察：基于 Pandas 开发运营数据分析脚本，定期产出自动化报表，提升决策效率。
-
-8. 产品运营与营销经验：
-
-   - 精益创业思维：驱动从需求调研、MVP 迭代到上线反馈的全生命周期管理；
-  
-   - 跨部门协作：与产品、市场、客服等团队紧密配合，推动专项营销活动。
-
+1. 全栈架构师（7年+经验）
+   - 0→1 项目孵化 & 高并发系统落地，独立完成前后端到运维全链路设计。
+   - 主导 换电物联网 SaaS 平台，支撑 200万+用户、90万+设备、千万换电订单。
+   - 主导 AI 效率工具平台，25万+注册会员，月活 100万+。
+2. 技术广度 & 深度
+   - 前端：Vue2/3、React、Taro/uniapp、Flutter，多端小程序 & H5 & App 开发。
+   - 后端：Spring Cloud Alibaba、Netty、Kafka、Redis、Cassandra、ClickHouse，Mysql，Elasticsearch，MongoDB，微服务/分布式实践。
+   - 云原生：Kubernetes、Docker、Jenkins CI/CD、SkyWalking、Prometheus，全链路可观测。
+3. 高并发与架构经验
+   - 物联网设备网关：Netty+Kafka 接入 90万+ 设备，在线率 99%，指令丢失率 <0.1%。
+   - 电商秒杀：Redis+布隆过滤器+异步削峰，百万 QPS 下无超卖，接口延迟降至 50ms。
+   - 高可用：Nginx + Keepalived 双活，VIP 自动漂移，服务滚动升级时，Nginx 会摘除不健康实例，外部用户无感知。
+   - 可扩展：要加机器 → 在 upstream 新增 server，Keepalived 配好权重即可。
+   - 分布式事务：集成Kafka支持数据同步，实现数据一致性。订单–库存一致性保障 100%，幂等机制彻底杜绝重复下单。
+   - 私服配置 : 完整配置了企业内网的 Nexus 私服。
+   - Nacos：控制数据恢复和同步策略。
+4. 管理与团队
+   - 4+ 年技术管理，带领 5+ 人团队完成核心产品交付。
+   - 建立研发规范、CI/CD 流程、代码评审与复盘机制。
+5. 项目代表
+   - 新能源换电 SaaS 平台：覆盖 330+ 城市， 556+ 运营商，累计订单 2 亿+。
+   - 画本妖鸡 AI 平台：AI 文本/音频工具链，成功商业化并盈利。
+   - 共享充电宝平台：用户 20万+，年营收百万+，稳定盈利。
+6. 特色优势
+   - 融合 Java 后端 + 前端 + 云原生 + 运维 + AI 应用 的全栈能力。
+   - 深度实战 高并发、微服务、分布式缓存、消息解耦、可观测性。
+   - 兼具 技术架构 与 产品运营/敏捷管理 经验。
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
