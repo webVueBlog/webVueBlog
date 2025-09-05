@@ -1,6 +1,6 @@
 ## JavaPlus 技术文档平台 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-Java后端 - AI全栈架构师 GitHub & 码云活跃者，累积 **700+ Stars** 有敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 带团队经验
+Java全栈架构师 GitHub & 码云活跃者，累积 **700+ Stars** 有敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 带团队经验
 
 ## ☀️ 亮点速览 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
