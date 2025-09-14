@@ -1,36 +1,9 @@
 ## JavaPlus 技术文档平台 感谢关注 Thanks for your attention ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-Java全栈架构师 GitHub & 码云活跃者，累积 **700+ Stars** 有敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 带团队经验
-
-## ☀️ 亮点速览 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-
-1. 全栈架构师（7年+经验）
-   - 0→1 项目孵化 & 高并发系统落地，独立完成前后端到运维全链路设计。
-   - 主导 换电物联网 SaaS 平台，支撑 200万+用户、90万+设备、千万换电订单。
-   - 主导 AI 效率工具平台，25万+注册会员，月活 100万+。
-2. 技术广度 & 深度
-   - 前端：Vue2/3、React、Taro/uniapp、Flutter，多端小程序 & H5 & App 开发。
-   - 后端：Spring Cloud Alibaba、Netty、Kafka、Redis、Cassandra、ClickHouse，Mysql，Elasticsearch，MongoDB，微服务/分布式实践。
-   - 云原生：Kubernetes、Docker、Jenkins CI/CD、SkyWalking、Prometheus，全链路可观测。
-3. 高并发与架构经验
-   - 物联网设备网关：Netty+Kafka 接入 90万+ 设备，在线率 99%，指令丢失率 <0.1%。
-   - 电商秒杀：Redis+布隆过滤器+异步削峰，百万 QPS 下无超卖，接口延迟降至 50ms。
-   - 高可用：Nginx + Keepalived 双活，VIP 自动漂移，服务滚动升级时，Nginx 会摘除不健康实例，外部用户无感知。
-   - 可扩展：要加机器 → 在 upstream 新增 server，Keepalived 配好权重即可。
-   - 分布式事务：集成Kafka支持数据同步，实现数据一致性。订单–库存一致性保障 100%，幂等机制彻底杜绝重复下单。
-   - 私服配置 : 完整配置了企业内网的 Nexus 私服。
-   - Nacos：控制数据恢复和同步策略。
-4. 管理与团队
-   - 4+ 年技术管理，带领 5+ 人团队完成核心产品交付。
-   - 建立研发规范、CI/CD 流程、代码评审与复盘机制。
-5. 项目代表
-   - 新能源换电 SaaS 平台：覆盖 330+ 城市， 556+ 运营商，累计订单 2 亿+。
-   - 画本妖鸡 AI 平台：AI 文本/音频工具链，成功商业化并盈利。
-   - 共享充电宝平台：用户 20万+，年营收百万+，稳定盈利。
-6. 特色优势
-   - 融合 Java 后端 + 前端 + 云原生 + 运维 + AI 应用 的全栈能力。
-   - 深度实战 高并发、微服务、分布式缓存、消息解耦、可观测性。
-   - 兼具 技术架构 与 产品运营/敏捷管理 经验。
+- Java全栈架构师 GitHub & 码云活跃者，有敏捷项目管理 & 产品运营 & 营销经验 0到1项目孵化经验 & 带团队经验
+- 融合 Java 后端 + 前端 + 云原生 + 运维 + AI 应用 的全栈能力。
+- 深度实战 高并发、微服务、分布式缓存、消息解耦、可观测性。
+- 兼具 技术架构 与 产品运营/敏捷管理 经验。
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
