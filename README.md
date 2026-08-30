@@ -57,16 +57,11 @@ I design and deliver production systems from zero to one, with hands-on experien
 - 🏡 [1024bibi.com](https://www.1024bibi.com)
 - 📚 [JavaPlusDoc](https://webvueblog.github.io/JavaPlusDoc/)
 
-## GitHub 数据
+## GitHub 动态
 
-<p>
-  <a href="https://github.com/webVueBlog">
-    <img src="https://github-readme-stats.vercel.app/api?username=webVueBlog&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="165" />
-  </a>
-  <a href="https://github.com/webVueBlog">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webVueBlog&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" height="165" />
-  </a>
-</p>
+- [查看我的开源仓库](https://github.com/webVueBlog?tab=repositories)
+- [查看最近贡献](https://github.com/webVueBlog?tab=overview)
+- [查看参与维护的项目](https://github.com/webVueBlog?tab=stars)
 
 ---
 
